@@ -41,7 +41,7 @@ async function loadSnapshot() {
         id: "empty",
         name: "尚未產生資料",
         company: "N/A",
-        summary: "請先執行 npm run update，或等 GitHub Actions 每日排程產生 snapshot。",
+        summary: "請先執行 npm run update，或在 GitHub Actions 手動執行 workflow 產生 snapshot。",
         metrics: { articles: 0, sources: 0, partners: 0, trends: 0 },
         trends: [],
         partners: [],
@@ -149,7 +149,7 @@ function renderTrends() {
   const celebrity = currentCelebrity();
   if (!celebrity.trends.length) {
     $("trendList").innerHTML = `<div class="empty">尚未抓到趨勢資料。</div>`;
-    $("trendDetail").innerHTML = `<div class="empty">每日更新後會顯示趨勢摘要。</div>`;
+    $("trendDetail").innerHTML = `<div class="empty">手動更新後會顯示趨勢摘要。</div>`;
     return;
   }
   $("trendList").innerHTML = celebrity.trends.map(trend => `
@@ -258,7 +258,7 @@ function answer(input) {
   if (partner) {
     return `${partner.partner}\n提及次數：${partner.mentions}\n趨勢：${partner.trend}\n摘要：${partner.cooperation}\n來源場合：${partner.occasions.join("；")}`;
   }
-  return "我目前能根據每日 snapshot 回答：最高分趨勢、首次出現 partner、提及次數 top、資料來源，以及特定 partner 的來源場合。";
+  return "我目前能根據最新 snapshot 回答：最高分趨勢、首次出現 partner、提及次數 top、資料來源，以及特定 partner 的來源場合。";
 }
 
 function renderChat() {
@@ -286,7 +286,7 @@ function renderSources() {
       <p>${esc(article.source)} · ${esc(formatDate(article.publishedAt))}</p>
       <p><a href="${esc(article.url)}" target="_blank" rel="noreferrer">Open source</a></p>
     </article>
-  `).join("") : `<div class="empty">目前沒有可顯示的來源。每日更新完成後會出現在這裡。</div>`;
+  `).join("") : `<div class="empty">目前沒有可顯示的來源。手動更新完成後會出現在這裡。</div>`;
 }
 
 function formatDate(value) {
