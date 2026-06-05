@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05 16:24 Asia/Taipei",
+  "generatedAt": "2026-06-05 16:40 Asia/Taipei",
   "period": "2026-06-04 ~ 2026-06-05",
   "mode": "Daily Live Snapshot",
   "sourceStatus": "Live public sources collected successfully.",
@@ -11,7 +11,7 @@
       "summary": "Jensen Huang / NVIDIA 今日抓到 24 則公開來源。最高分趨勢是 AI 基礎設施 / AI infrastructure。",
       "metrics": {
         "articles": 24,
-        "sources": 19,
+        "sources": 18,
         "partners": 0,
         "trends": 4
       },
@@ -20,7 +20,7 @@
           "id": "ai-infrastructure",
           "title": "AI 基礎設施 / AI infrastructure",
           "score": 99,
-          "summary": "今日公開來源中有 8 則相關訊號。",
+          "summary": "今日公開來源中有 7 則相關訊號。",
           "technology": [
             "ai",
             "gpu",
@@ -30,10 +30,10 @@
           ],
           "impact": "可用來觀察名人敘事、合作、產品與市場反應是否同步升溫。",
           "sources": [
-            "LIVE: Nvidia CEO Jensen Huang arrives in South Korea - Daily Gate City",
             "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI - NVIDIA Blog",
-            "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales - CNBC",
-            "Nvidia CEO Jensen Huang promotes AI ties in South Korea with TV and baseball appearances - Crypto Briefing"
+            "LIVE: Nvidia CEO Jensen Huang arrives in South Korea - Daily Gate City",
+            "Nvidia CEO Jensen Huang promotes AI ties in South Korea with TV and baseball appearances - Crypto Briefing",
+            "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales - CNBC"
           ]
         },
         {
@@ -53,7 +53,7 @@
             "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises' - Reuters",
             "Nvidia CEO Jensen Huang embarks on packed Seoul visit focused on AI, robotics - The Korea Herald",
             "Nvidia’s Jensen Huang Thinks Korea’s Next Big Bet Is Robotics - Finimize",
-            "Nvidia CEO Jensen Huang visits Seoul for robotics, AI, gaming partnership - The Korea Times"
+            "Nvidia CEO Jensen Huang Says Robotics Is Next Key Sector for South Korea | June 2026 - News and Statistics - IndexBox"
           ]
         },
         {
@@ -135,6 +135,14 @@
           "sourceType": "News RSS"
         },
         {
+          "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI - NVIDIA Blog",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTXZzaWRhdzVTY0Jqb2dRcHFzZHdObzZyYjlwLWRwMUVka1NoQVpUU0twcWZGcjlnc21zWWFfYjNrS19iNzgxY2dJVVNXQVNYcS1vVVppRXNjenZsbDRrZw?oc=5",
+          "source": "NVIDIA Blog",
+          "publishedAt": "2026-06-05T05:44:13.000Z",
+          "snippet": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI &nbsp;&nbsp; NVIDIA Blog",
+          "sourceType": "News RSS"
+        },
+        {
           "title": "Nvidia's Jensen Huang to make Faker his first stop in Seoul - The Korea Herald",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84czVKc18wOUpOUXpQc2FybjVuRjZ0M2g0S3U2ejFnQW9IajctUXR4Z1VobU13eGtRRU0zTkJhZG1iVHVuN20yejFHRlJpdHVQWlpHZTk1MA?oc=5",
           "source": "The Korea Herald",
@@ -151,19 +159,11 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI - NVIDIA Blog",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTXZzaWRhdzVTY0Jqb2dRcHFzZHdObzZyYjlwLWRwMUVka1NoQVpUU0twcWZGcjlnc21zWWFfYjNrS19iNzgxY2dJVVNXQVNYcS1vVVppRXNjenZsbDRrZw?oc=5",
-          "source": "NVIDIA Blog",
-          "publishedAt": "2026-06-05T05:44:13.000Z",
-          "snippet": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI &nbsp;&nbsp; NVIDIA Blog",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "LIVE: Nvidia CEO Jensen Huang arrives in South Korea - Shoreline Media Group",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGdsaS1tMXhydFVRM3hsZ2Vkc3d4eE9oRG1TOFNIVHZLZG8zdllvSVoxX0NyMEdmZTA4dHlnczhlRnRFUm5Yel9DcDFYazFoWkFPSFl1eEpLM3ZGSnR6eW1OWHNzNndyb2dsMkEzeXh4T0dNaEEtZEh1cG0xS0RWXzJLOUNFMzJuRWk1bnZZR0JtbTRrSTFYak1KeUNCbUF1UzE3QnJTc0Uyb1ZkQzNxTXY2N3RSbzVRTU9QaDE1TXlqOUxRUWRPaWs2WGtqSWdsQXNHQkhTejJObVI5THpKNUg0d1RSS2hJSi1EVHBNOA?oc=5",
-          "source": "Shoreline Media Group",
-          "publishedAt": "2026-06-05T03:45:38.000Z",
-          "snippet": "LIVE: Nvidia CEO Jensen Huang arrives in South Korea &nbsp;&nbsp; Shoreline Media Group",
+          "title": "Elizabeth Warren Wants Answers From Jensen Huang On Nvidia's China Sales: 'Opportunity To Testify...' - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ083WTB4Y3BEMHY2VnduOXJDWWtRX0x1dkN2cGRwMWlDZGl5bEZQWFByd3lFMEM3WW45ajNNS1lCNDUyUnVkRGk0ZTVqVUpJNXQ2TG5ubXdUQUdFM0Y2M3lJUWpaM0t6ems3Q0Q1WnlyQjlsZm9jVTFkMlhYalBOX1NSYmkwUjVyeWs3TWV0eWJ0cm1hQk9CeGp1RWxKZjdRczE2NHEzWkZzLXpjMXl0R2ZQTHg2eTNpSWxfSVBBaTNFRHk3SFhXbWhuU1pZWjQtUjlYM2RpVkh1SVZaNXI1WA?oc=5",
+          "source": "Benzinga",
+          "publishedAt": "2026-06-05T03:42:00.000Z",
+          "snippet": "Elizabeth Warren Wants Answers From Jensen Huang On Nvidia's China Sales: 'Opportunity To Testify...' &nbsp;&nbsp; Benzinga",
           "sourceType": "News RSS"
         },
         {
@@ -175,19 +175,11 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "Elizabeth Warren Wants Answers From Jensen Huang On Nvidia's China Sales: 'Opportunity To Testify...' - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ083WTB4Y3BEMHY2VnduOXJDWWtRX0x1dkN2cGRwMWlDZGl5bEZQWFByd3lFMEM3WW45ajNNS1lCNDUyUnVkRGk0ZTVqVUpJNXQ2TG5ubXdUQUdFM0Y2M3lJUWpaM0t6ems3Q0Q1WnlyQjlsZm9jVTFkMlhYalBOX1NSYmkwUjVyeWs3TWV0eWJ0cm1hQk9CeGp1RWxKZjdRczE2NHEzWkZzLXpjMXl0R2ZQTHg2eTNpSWxfSVBBaTNFRHk3SFhXbWhuU1pZWjQtUjlYM2RpVkh1SVZaNXI1WA?oc=5",
-          "source": "Benzinga",
-          "publishedAt": "2026-06-05T03:42:00.000Z",
-          "snippet": "Elizabeth Warren Wants Answers From Jensen Huang On Nvidia's China Sales: 'Opportunity To Testify...' &nbsp;&nbsp; Benzinga",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkNtRE9mbFptRFZIVV9rYXRuTW5jbFFpMmRZRlpSNEthLVFuRGhfSl9WYUptT3ZDMjQ2RmFqb1RPcjZnd3ZQZlhVRzJvbFpyVWJicE52S3dHd2d3RnR1NDVkU3dybmxab0hXcThndHYwbXQ2b1l3RlAyYmFYbThoNzUza2s1OXJkQklSYllxQmpQYjlucXVLTkY1THE4d9IBowFBVV95cUxPbVFYSnBzS0hzc1Bkck1FbFl4X3F4QURobVMzZHVSSXpuRV9pTmEzb0ZqalJKMmxVdjhMa1ZRZDMySHhiSUZOU0JpWDR3bFhmbDNMTHFEcldkWlF1WS14blFEbjdLSmZrSVFqeE9aVkpEVUxXdjVyR3RwLW1oUHVWdjN4X1c2RzBhSGtseF9tY1hzRGZES1RxM2pEdGJOME1yTEZV?oc=5",
-          "source": "CNBC",
-          "publishedAt": "2026-06-04T21:43:57.000Z",
-          "snippet": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales &nbsp;&nbsp; CNBC",
+          "title": "LIVE: Nvidia CEO Jensen Huang arrives in South Korea - Shoreline Media Group",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGdsaS1tMXhydFVRM3hsZ2Vkc3d4eE9oRG1TOFNIVHZLZG8zdllvSVoxX0NyMEdmZTA4dHlnczhlRnRFUm5Yel9DcDFYazFoWkFPSFl1eEpLM3ZGSnR6eW1OWHNzNndyb2dsMkEzeXh4T0dNaEEtZEh1cG0xS0RWXzJLOUNFMzJuRWk1bnZZR0JtbTRrSTFYak1KeUNCbUF1UzE3QnJTc0Uyb1ZkQzNxTXY2N3RSbzVRTU9QaDE1TXlqOUxRUWRPaWs2WGtqSWdsQXNHQkhTejJObVI5THpKNUg0d1RSS2hJSi1EVHBNOA?oc=5",
+          "source": "Shoreline Media Group",
+          "publishedAt": "2026-06-05T03:45:38.000Z",
+          "snippet": "LIVE: Nvidia CEO Jensen Huang arrives in South Korea &nbsp;&nbsp; Shoreline Media Group",
           "sourceType": "News RSS"
         },
         {
@@ -199,19 +191,11 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "NVIDIA CEO Jensen Huang Prepares Surprise Gift for Korea - 조선일보",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk44b0JHUDJMQ0kya0VHRGNRZXppaG5FdWtMZERpa01hZTU1em45NEV3ak9JY3pnZnJjRVFrMnlxQ29UTURBRVVrWC1oRldtUDJvLVNsbzNsa3ExS0c2NWlUeDZ3aEJpMExjLWhodWVGSnZZbEZzcFNGbU5QVUI2V0NRNFVEXzBv?oc=5",
-          "source": "조선일보",
-          "publishedAt": "2026-06-05T06:46:50.000Z",
-          "snippet": "NVIDIA CEO Jensen Huang Prepares Surprise Gift for Korea &nbsp;&nbsp; 조선일보",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "Nvidia's Jensen Huang to meet South Korean business leaders beyond HBM sector - digitimes",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUtzUHBQTlBKWk9HWkp3T0cxWDRmZXNWN04tc0N1RzBaUDNrVHlvTG5KNzNRTWZQWXFvamw3Qk5VWWhqRE81S0xwbUpOQ2kyRXlyelhCYWkzcUZEM3VMZF9HSHVDMzU3c3l1YnhrSHMwOFp2UmtxZ1ZXa3p6RzJBX3RyUGs5RlFfNWxVQlktX3VIbUZobkhHYmZPTDE3WE5jWTgwZEdZRkR4UTQ?oc=5",
-          "source": "digitimes",
-          "publishedAt": "2026-06-05T04:49:58.000Z",
-          "snippet": "Nvidia's Jensen Huang to meet South Korean business leaders beyond HBM sector &nbsp;&nbsp; digitimes",
+          "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkNtRE9mbFptRFZIVV9rYXRuTW5jbFFpMmRZRlpSNEthLVFuRGhfSl9WYUptT3ZDMjQ2RmFqb1RPcjZnd3ZQZlhVRzJvbFpyVWJicE52S3dHd2d3RnR1NDVkU3dybmxab0hXcThndHYwbXQ2b1l3RlAyYmFYbThoNzUza2s1OXJkQklSYllxQmpQYjlucXVLTkY1THE4d9IBowFBVV95cUxPbVFYSnBzS0hzc1Bkck1FbFl4X3F4QURobVMzZHVSSXpuRV9pTmEzb0ZqalJKMmxVdjhMa1ZRZDMySHhiSUZOU0JpWDR3bFhmbDNMTHFEcldkWlF1WS14blFEbjdLSmZrSVFqeE9aVkpEVUxXdjVyR3RwLW1oUHVWdjN4X1c2RzBhSGtseF9tY1hzRGZES1RxM2pEdGJOME1yTEZV?oc=5",
+          "source": "CNBC",
+          "publishedAt": "2026-06-04T21:43:57.000Z",
+          "snippet": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales &nbsp;&nbsp; CNBC",
           "sourceType": "News RSS"
         },
         {
@@ -223,11 +207,27 @@
           "sourceType": "News RSS"
         },
         {
+          "title": "Jensen Huang and Faker meet, celebrate mutual rise - The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yUWM3bm11LXItaE1jeElMM0ozbVdQMVFWb1BUYXo0X2dBNE04eGhzSUdRRGd2dmNrRHZxTW51Nk1IZkJvaVJjSnB0WFNzbC1LRzVCNXJ2bw?oc=5",
+          "source": "The Korea Herald",
+          "publishedAt": "2026-06-05T08:27:39.000Z",
+          "snippet": "Jensen Huang and Faker meet, celebrate mutual rise &nbsp;&nbsp; The Korea Herald",
+          "sourceType": "News RSS"
+        },
+        {
           "title": "Nvidia CEO Jensen Huang embarks on packed Seoul visit focused on AI, robotics - The Korea Herald",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vU1N1cGVrdXdMSFkxSGRJUE1acU9Jazgxc0tvZ2x0YUxWMC1BbnEwQjhyOFdVTy1tQTc2NVVKVVpIV29VdWp3T0xzelRHZVpsZDJ5UmZYTQ?oc=5",
           "source": "The Korea Herald",
           "publishedAt": "2026-06-05T02:24:25.000Z",
           "snippet": "Nvidia CEO Jensen Huang embarks on packed Seoul visit focused on AI, robotics &nbsp;&nbsp; The Korea Herald",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "NVIDIA CEO Jensen Huang Prepares Surprise Gift for Korea - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk44b0JHUDJMQ0kya0VHRGNRZXppaG5FdWtMZERpa01hZTU1em45NEV3ak9JY3pnZnJjRVFrMnlxQ29UTURBRVVrWC1oRldtUDJvLVNsbzNsa3ExS0c2NWlUeDZ3aEJpMExjLWhodWVGSnZZbEZzcFNGbU5QVUI2V0NRNFVEXzBv?oc=5",
+          "source": "조선일보",
+          "publishedAt": "2026-06-05T06:46:50.000Z",
+          "snippet": "NVIDIA CEO Jensen Huang Prepares Surprise Gift for Korea &nbsp;&nbsp; 조선일보",
           "sourceType": "News RSS"
         },
         {
@@ -239,11 +239,35 @@
           "sourceType": "News RSS"
         },
         {
+          "title": "Nvidia's Jensen Huang to meet South Korean business leaders beyond HBM sector - digitimes",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUtzUHBQTlBKWk9HWkp3T0cxWDRmZXNWN04tc0N1RzBaUDNrVHlvTG5KNzNRTWZQWXFvamw3Qk5VWWhqRE81S0xwbUpOQ2kyRXlyelhCYWkzcUZEM3VMZF9HSHVDMzU3c3l1YnhrSHMwOFp2UmtxZ1ZXa3p6RzJBX3RyUGs5RlFfNWxVQlktX3VIbUZobkhHYmZPTDE3WE5jWTgwZEdZRkR4UTQ?oc=5",
+          "source": "digitimes",
+          "publishedAt": "2026-06-05T04:49:58.000Z",
+          "snippet": "Nvidia's Jensen Huang to meet South Korean business leaders beyond HBM sector &nbsp;&nbsp; digitimes",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang Says Robotics Is Next Key Sector for South Korea | June 2026 - News and Statistics - IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWFNU2w1c2dWdXEzWm01LUFqRnpsbzk0bl95Ul9weDdFOWtLbmJIbXVGWDc1WnZmc2NTN0FnWndRZEk0YS0wcnlKQi1JMTg0M2hzVHk3dXhISlBVbktBa19DQnl6SlJmdndtSHlmVV9WX0gzaUE1dXZLTWN0LWpYT1FCVVRJMmlmUVlYemFjNVdVYjRJaWJKZWJFRGtyeTBxM1FXaGR3UEg?oc=5",
+          "source": "IndexBox",
+          "publishedAt": "2026-06-05T05:20:00.000Z",
+          "snippet": "Nvidia CEO Jensen Huang Says Robotics Is Next Key Sector for South Korea | June 2026 - News and Statistics &nbsp;&nbsp; IndexBox",
+          "sourceType": "News RSS"
+        },
+        {
           "title": "Nvidia CEO Jensen Huang visits Seoul for robotics, AI, gaming partnership - The Korea Times",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWHQzeVdYcV9wbjAzcXVyS1U5SmtrZzBlbzFWY2ZZWDhscEJfU1l4dkV2ZGdMRks4Qm1hODlnNmstRk5wRlN6Y19DQXhaQXJaQXp5TlZGUWJRRWdBamZWZDd3SkNJelAzVUZuTFcteXF0TWo1SE5pcVJHaFNUMU5rOG96NlRmdU5lYXRVb0ZtcnhSb2JjSFhTeThWc1M0Ym1jRnU4YXowUlE2WGk2MlJlMVVNdG8xZXVWLXJscHN4M2FfalpvVVlHNF9NOUpMak1L0gHQAUFVX3lxTE1YdDN5V1hxX3BuMDNxdXJLVTlKa2tnMGVvMVZjZllYOGxwQl9TWXh2RXZkZ0xGSzhCbWE4OWc2ay1GTnBGU3pjX0NBeFpBclpBenlOVkZRYlFFZ0FqZlZkN3dKQ0l6UDNVRm5MVy15cXRNajVITmlxUkdoU1QxTms4b3o2VGZ1TmVhdFVvRm1yeFJvYmNIWFN5OFZzUzRibWNGdThhejBSUTZYaTYyUmUxVU10bzFldVYtcmxwc3gzYV9qWm9VWUc0X005SkxqTUs?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-06-05T05:13:00.000Z",
           "snippet": "Nvidia CEO Jensen Huang visits Seoul for robotics, AI, gaming partnership &nbsp;&nbsp; The Korea Times",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "Jensen Huang vows to return at least half of Nvidia’s free cash flow - MSN",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQ2lic0ltWndTc2hDblkxZEdFdHhXcGxKOUltV1NiYTJfcF9qRHdkeEhYSk5GaURjVGZ1NXNtMU1LYjM5NGhXWmpsR3NSN0ZNZ0hzZUNXaTBDdmx0OVZ1TUtaeUNySlpVaHc3dXZBZWdEYXh0UkJQWjlsM1paRWEwSVEweUp3Sy0yNlBRbmQ0SkFIeGhCakZsbWJyMVp3eUVEempUQlhxenFlNy1HQnI1TEk1NjBxQW9DTUtwYndyT3B0bTAzLWstQWNuVVhmYUJ0b3paYkpSYklDRFNIeDZpOGhVSjRIX09NQmIybGZzaXlCMXhhYndZeFo2eHV1anMy?oc=5",
+          "source": "MSN",
+          "publishedAt": "2026-06-04T23:20:05.000Z",
+          "snippet": "Jensen Huang vows to return at least half of Nvidia’s free cash flow &nbsp;&nbsp; MSN",
           "sourceType": "News RSS"
         },
         {
@@ -260,30 +284,6 @@
           "source": "The Korea Herald",
           "publishedAt": "2026-06-05T05:57:06.000Z",
           "snippet": "Nvidia CEO touches down in Seoul with 'surprises' for Korea &nbsp;&nbsp; The Korea Herald",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "Why Jensen Huang is going on a charm offensive in South Korea - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtTl9WVzlyQnpOQnJEV3YwUHBWMWJoai1odmFFMVE0czdZMGRxUFRSRWtBUEJRVFhNMUQtRS1DWF9tLWFiSVREeFBsRWhONHEtX1E0a1VucmpQRktUMFdheGZHUmItdTljQi1vbFQxcXRNSVpUMF9F?oc=5",
-          "source": "AOL.com",
-          "publishedAt": "2026-06-05T06:15:00.000Z",
-          "snippet": "Why Jensen Huang is going on a charm offensive in South Korea &nbsp;&nbsp; AOL.com",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang Says Robotics Is Next Key Sector for South Korea | June 2026 - News and Statistics - IndexBox",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWFNU2w1c2dWdXEzWm01LUFqRnpsbzk0bl95Ul9weDdFOWtLbmJIbXVGWDc1WnZmc2NTN0FnWndRZEk0YS0wcnlKQi1JMTg0M2hzVHk3dXhISlBVbktBa19DQnl6SlJmdndtSHlmVV9WX0gzaUE1dXZLTWN0LWpYT1FCVVRJMmlmUVlYemFjNVdVYjRJaWJKZWJFRGtyeTBxM1FXaGR3UEg?oc=5",
-          "source": "IndexBox",
-          "publishedAt": "2026-06-05T05:20:00.000Z",
-          "snippet": "Nvidia CEO Jensen Huang Says Robotics Is Next Key Sector for South Korea | June 2026 - News and Statistics &nbsp;&nbsp; IndexBox",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "Nvidia CEO arrives in Seoul for 'second round' with physical AI, gamer meetups and pork belly on the menu - Korea JoongAng Daily",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeGJPdjRFX1ZtbkdJdUd5YkQteGpOQVVSN0pzODh1Yy15WlJOZWl3ZUpXUnFLSENLTlRORzJpajRYanItOWxkVi1WZGt2SXBpbDhjYkdMZEM0SWNUa28ydWFSQ3REcFlsZkxxbFp3UTNoX2R1ZVQzYWF1Y05yRHNkQ2VOWU5OWjAxOHpEWDByWk94eExISmtXZ0VydlZncmhLd3lBNTVDV3RYNl92V3gwTzBlcXFCTUEyVmQzRjJILUc5bmpSalZYOTU1ZlBNQ1VCSVcyb09Fdlh3M2syOWRmeS04QjQ1c1hMeVI1aGRNbjNqbVZpMF9YbzJBTGZEeHpGazV6UkhmZ0pycnNJLVE?oc=5",
-          "source": "Korea JoongAng Daily",
-          "publishedAt": "2026-06-05T07:11:29.000Z",
-          "snippet": "Nvidia CEO arrives in Seoul for 'second round' with physical AI, gamer meetups and pork belly on the menu &nbsp;&nbsp; Korea JoongAng Daily",
           "sourceType": "News RSS"
         }
       ]
@@ -304,7 +304,7 @@
           "id": "ai-infrastructure",
           "title": "AI 基礎設施 / AI infrastructure",
           "score": 99,
-          "summary": "今日公開來源中有 11 則相關訊號。",
+          "summary": "今日公開來源中有 12 則相關訊號。",
           "technology": [
             "ai",
             "gpu",
@@ -315,9 +315,9 @@
           "impact": "可用來觀察名人敘事、合作、產品與市場反應是否同步升溫。",
           "sources": [
             "AMD CEO Lisa Su drops rare message on AI careers - thestreet.com",
-            "AMD Stock Pops as AI Powers Strong Data-Center Demand - AOL.com",
             "AMD’s $130,000 Decade: U.S. Chipmaker Rises from Near-Bankruptcy to AI Leader - 24/7 Wall St.",
-            "A.I. Leaders’ Advice for 2026 College Graduates Shows the Limit of Silicon Valley Optimism - observer.com"
+            "A.I. Leaders’ Advice for 2026 College Graduates Shows the Limit of Silicon Valley Optimism - observer.com",
+            "2 CEOs, 1 AI empire: Why Jensen Huang and Lisa Su are on a collision course - MSN"
           ]
         },
         {
@@ -334,8 +334,8 @@
           ],
           "impact": "可用來觀察名人敘事、合作、產品與市場反應是否同步升溫。",
           "sources": [
-            "AMD’s $130,000 Decade: U.S. Chipmaker Rises from Near-Bankruptcy to AI Leader - 24/7 Wall St.",
             "AMD’s market cap soars past $750B for first time — CEO Lisa Su expects CPU market to grow 35% annually over next 5 years - MSN",
+            "AMD’s $130,000 Decade: U.S. Chipmaker Rises from Near-Bankruptcy to AI Leader - 24/7 Wall St.",
             "NVIDIA vs. AMD: Which AI Chip Belongs in Your Retirement Portfolio? - 24/7 Wall St.",
             "Hanmi Semiconductor debuts at Computex, unveils HBM4 and 2.5D AI packaging gear - CHOSUNBIZ - Chosunbiz"
           ]
@@ -344,7 +344,7 @@
           "id": "market",
           "title": "市場訊號 / Market signal",
           "score": 99,
-          "summary": "今日公開來源中有 5 則相關訊號。",
+          "summary": "今日公開來源中有 4 則相關訊號。",
           "technology": [
             "stock",
             "shares",
@@ -354,7 +354,7 @@
           ],
           "impact": "可用來觀察名人敘事、合作、產品與市場反應是否同步升溫。",
           "sources": [
-            "AMD Stock Pops as AI Powers Strong Data-Center Demand - AOL.com",
+            "AMD Q1 2026 EARNINGS LIVE | LISA SU SPEAKS Secret Service Dhs Separation Bill (K8rGlMg44U) - Mshale",
             "Why AMD Stock Exploded Higher Today - AOL.com",
             "AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now? - 24/7 Wall St.",
             "Arm vs. NVIDIA: Which Semiconductor Stock Belongs in Your 10-Year Portfolio? - 24/7 Wall St."
@@ -366,13 +366,13 @@
           "partner": "AMD",
           "type": "Detected organization",
           "cooperation": "在公開新聞訊號中與此名人或其公司同時出現，需進一步人工或 RAG 驗證合作關係。",
-          "mentions": 15,
+          "mentions": 14,
           "occasions": [
             "thestreet.com: AMD CEO Lisa Su drops rare message on AI careers - thestreet.com",
-            "AOL.com: AMD Stock Pops as AI Powers Strong Data-Center Demand - AOL.com",
-            "24/7 Wall St.: AMD’s $130,000 Decade: U.S. Chipmaker Rises from Near-Bankruptcy to AI Leader - 24/7 Wall St."
+            "Mshale: AMD Q1 2026 EARNINGS LIVE | LISA SU SPEAKS Secret Service Dhs Separation Bill (K8rGlMg44U) - Mshale",
+            "MSN: AMD’s market cap soars past $750B for first time — CEO Lisa Su expects CPU market to grow 35% annually over next 5 years - MSN"
           ],
-          "first": true,
+          "first": false,
           "sourceTypes": [
             "News RSS"
           ],
@@ -386,9 +386,9 @@
           "occasions": [
             "24/7 Wall St.: Forget Intel: Buy This Ultra-Efficient, Cash-Generative Semiconductor Juggernaut Instead - 24/7 Wall St.",
             "foreignpolicyjournal.com: Advanced Micro Devices (NASDAQ: AMD) Outpaces Intel (NASDAQ: INTC) On Cash Flow And Data Center Growth - foreignpolicyjournal.com",
-            "HotHardware: AMD Hits Record X86 CPU Market Share As Intel Supply Stalls In Q1 - HotHardware"
+            "24/7 Wall St.: AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now? - 24/7 Wall St."
           ],
-          "first": true,
+          "first": false,
           "sourceTypes": [
             "News RSS"
           ],
@@ -402,7 +402,7 @@
           "occasions": [
             "24/7 Wall St.: Arm vs. NVIDIA: Which Semiconductor Stock Belongs in Your 10-Year Portfolio? - 24/7 Wall St."
           ],
-          "first": true,
+          "first": false,
           "sourceTypes": [
             "News RSS"
           ],
@@ -419,11 +419,19 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "AMD Stock Pops as AI Powers Strong Data-Center Demand - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2a3E2T1Q5VndTbTVUXzZuOHBWbTJ2cEN3b0w4TmxrS0RHMGt6S3duZS1BM25Ia3VXeFJiYWEwWXMtbDNoMXZHWmtTb2F4RDdaZG9TTUF0Qnlmak1vRlJPRHhlRHpNSWF6MVNJbExLQnhXUDA?oc=5",
-          "source": "AOL.com",
-          "publishedAt": "2026-06-04T21:02:05.000Z",
-          "snippet": "AMD Stock Pops as AI Powers Strong Data-Center Demand &nbsp;&nbsp; AOL.com",
+          "title": "AMD Q1 2026 EARNINGS LIVE | LISA SU SPEAKS Secret Service Dhs Separation Bill (K8rGlMg44U) - Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Sml0Qm9fc250dVhLX045TjNXZ0hoTGM3WHN1MkZoUy1pdDlWSkxvaGk5VUtTYXhjRHBWYlhaUWY1OWc3S0ZZTUFQNnVRV2h0Ym1BU1NWVG9tX3JLc05FdA?oc=5",
+          "source": "Mshale",
+          "publishedAt": "2026-06-05T02:21:31.000Z",
+          "snippet": "AMD Q1 2026 EARNINGS LIVE | LISA SU SPEAKS Secret Service Dhs Separation Bill (K8rGlMg44U) &nbsp;&nbsp; Mshale",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "AMD’s market cap soars past $750B for first time — CEO Lisa Su expects CPU market to grow 35% annually over next 5 years - MSN",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWZBSVpYWGl2UmFhSTRQMDlxbEJoT0VuMnBISTFkQ1pwVFFCUi0taEZiVmxkeE1qS29ZQlNoMGVEX3pTUWU4UGRZeVpTcUs4VS1hVEJHd0pSR004UU1kZHBrMzYyUTdoV2xGVnBVTEgzNnAtZ3dsdWF0c0NpMjRjSUtSbWtKcjlqWHBHQVRKZUdhbTZwa3A5alJWYmh0X1czckctWjk5OS0xRGF2ZWM4SjloSU5lZ2Iya1BRZ2pET0E2ZWFILTJNSEx0Y3R5VUtzZGh6ZmJmdkVYRk5ObnRORk1zLWJkZ1Y5MXFyS08yMTRZaGtrVTI1X2dPbE5weGdzRXRYQXRUdVRoTXNHejZPWjFlQ1BKVkhpWmtLQ3NnOTFCNUJmeTZ3MHVhZVpOVmpY?oc=5",
+          "source": "MSN",
+          "publishedAt": "2026-06-04T23:45:09.000Z",
+          "snippet": "AMD’s market cap soars past $750B for first time — CEO Lisa Su expects CPU market to grow 35% annually over next 5 years &nbsp;&nbsp; MSN",
           "sourceType": "News RSS"
         },
         {
@@ -432,6 +440,14 @@
           "source": "24/7 Wall St.",
           "publishedAt": "2026-06-04T13:19:57.000Z",
           "snippet": "AMD’s $130,000 Decade: U.S. Chipmaker Rises from Near-Bankruptcy to AI Leader &nbsp;&nbsp; 24/7 Wall St.",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "Why AMD Stock Exploded Higher Today - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZFNjbDdleFJmeFVWNWZUV1Y5WnJaSGVfY1BwaENjSU1mN0lXZDM2SzZUNGtmOVBhWkNNZmVId1BDdWFzcEZXNFhfWHE1c29lSHBQOU1ITjBpcU5CZVpJUjAxYVFoRnMyTXJVU0xtUHVyZVhiMEl5eTBJaGpWUQ?oc=5",
+          "source": "AOL.com",
+          "publishedAt": "2026-06-05T01:35:44.000Z",
+          "snippet": "Why AMD Stock Exploded Higher Today &nbsp;&nbsp; AOL.com",
           "sourceType": "News RSS"
         },
         {
@@ -451,19 +467,11 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "AMD’s market cap soars past $750B for first time — CEO Lisa Su expects CPU market to grow 35% annually over next 5 years - MSN",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWZBSVpYWGl2UmFhSTRQMDlxbEJoT0VuMnBISTFkQ1pwVFFCUi0taEZiVmxkeE1qS29ZQlNoMGVEX3pTUWU4UGRZeVpTcUs4VS1hVEJHd0pSR004UU1kZHBrMzYyUTdoV2xGVnBVTEgzNnAtZ3dsdWF0c0NpMjRjSUtSbWtKcjlqWHBHQVRKZUdhbTZwa3A5alJWYmh0X1czckctWjk5OS0xRGF2ZWM4SjloSU5lZ2Iya1BRZ2pET0E2ZWFILTJNSEx0Y3R5VUtzZGh6ZmJmdkVYRk5ObnRORk1zLWJkZ1Y5MXFyS08yMTRZaGtrVTI1X2dPbE5weGdzRXRYQXRUdVRoTXNHejZPWjFlQ1BKVkhpWmtLQ3NnOTFCNUJmeTZ3MHVhZVpOVmpY?oc=5",
+          "title": "2 CEOs, 1 AI empire: Why Jensen Huang and Lisa Su are on a collision course - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWRrM29JdXlmbG9vQi03U2xlNDV0OFVDdzR4eFQ0SGdMTW1RcVllVWptMnVnbjBXMUJRajAxa2FHVUQwdmkxNkcyTFJZdjFFZUVXek11Tzh5Q0V1a3owaDR1NGdKWUJfYlF2QkN1OGlkcWdqUThMS2ZGZjNWRFl1NTY0MV9Iclk1OEllbVRPdmVhVWRvYThyQllQYmFpT05qVzJyNHJBSHdvbkdDdWlmVlNtQjFYVlgwMUJNNFdPbklLQU1IczhkXzlmbEpPN2huNzFvNHBPXzFCSjdSY3gtT3JB?oc=5",
           "source": "MSN",
-          "publishedAt": "2026-06-04T23:45:09.000Z",
-          "snippet": "AMD’s market cap soars past $750B for first time — CEO Lisa Su expects CPU market to grow 35% annually over next 5 years &nbsp;&nbsp; MSN",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "Why AMD Stock Exploded Higher Today - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZFNjbDdleFJmeFVWNWZUV1Y5WnJaSGVfY1BwaENjSU1mN0lXZDM2SzZUNGtmOVBhWkNNZmVId1BDdWFzcEZXNFhfWHE1c29lSHBQOU1ITjBpcU5CZVpJUjAxYVFoRnMyTXJVU0xtUHVyZVhiMEl5eTBJaGpWUQ?oc=5",
-          "source": "AOL.com",
-          "publishedAt": "2026-06-05T01:35:44.000Z",
-          "snippet": "Why AMD Stock Exploded Higher Today &nbsp;&nbsp; AOL.com",
+          "publishedAt": "2026-06-04T21:34:56.000Z",
+          "snippet": "2 CEOs, 1 AI empire: Why Jensen Huang and Lisa Su are on a collision course &nbsp;&nbsp; MSN",
           "sourceType": "News RSS"
         },
         {
@@ -492,9 +500,9 @@
         },
         {
           "title": "AMD’s $130,000 decade: US chipmaker rises from near-bankruptcy to AI leader - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGN6bU1SbjdjYmcyTW1ialdvUnBUeUVUV3RUU19TbXJ3d3FsTjNhMHpvaHlaQmRDYmZxRDRldmN2eXkya1Zqb1FZaThyYThLR1JucHJZNlpvSTNtRjVDTlNfSnkwc3pTM1FubnVYUEhpMDZqaTZVQUJPTkdVUmwwWlhqQm5HZEk3RVdMZ3BfSHBFRloxTEc5c1hCYVltZG5WaHItdUlJaEpveUF4YUNpZnpINU5kX05UR2t0SlRienA1UnAzQ25QUFpxMXcwbzVMVkMtQ2Zsdzk3YUpYTTBmb3VoUG9MWTZlQTkzYS1kSFhUSERm?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNcFZFSjhlWjVNX25MM3ZrWnlFOEU5WEhHWDZNSGhIRy1LaUlFWnBhNUIyWUVSMVNHbWs3cVNUUDBEOWJXX0tDcWVESkp2Zm9uRlJYME9IT2tiN0lsekxhQzg4Y2NaMlZEaW94VUQyWHY4MmZleURYZE1lS0hZRTB5WWRiRExnWklKQTJOTzhwNjVQRHNmc3FDNjlhQ29IM2FPWnFhajRnU1BfNk5WTTdad2xiV0NsNmowYjJqT0tjanpQQ2dCM1lna2Z6a0NGZ0RkRnRINDczMWNUSkZzLVNzcUxvNjNNU1M3eURSaFJLNG1qOW5OdE91VGVyeS1tU0JPaU85V0N3UTZoS2FGdkFxYldFbzFmS01UWkJ4dkFTdjRsTlFZcTc1X05iNHR6Mi1XNlFfWnNPWVVhM2RDSk9QazQ4NEhCemd0NnhDWTVvd1VoNS1NVWtOQk9VX3VjcE1lc3hKbktyTk8?oc=5",
           "source": "MSN",
-          "publishedAt": "2026-06-04T13:59:15.000Z",
+          "publishedAt": "2026-06-04T14:33:18.000Z",
           "snippet": "AMD’s $130,000 decade: US chipmaker rises from near-bankruptcy to AI leader &nbsp;&nbsp; MSN",
           "sourceType": "News RSS"
         },
@@ -507,27 +515,11 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "AMD Hits Record X86 CPU Market Share As Intel Supply Stalls In Q1 - HotHardware",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3N2cXNPLVFZdmFibTZOeWVxa05HQ1ZndkdOM2kweVJkd01wdENnVExsdmwxWkd6TTQtbFI0cWpLWXgyUTZaelZSdEI1QzhjRnZOd1lBa08xamlkeUU2Ry1vM2VjNEg2LVRBQWFfaXFyaUw0Q1ZWSDNPVXFVblZqdmNCbjR5NThaMm16WVZR?oc=5",
-          "source": "HotHardware",
-          "publishedAt": "2026-06-04T14:24:00.000Z",
-          "snippet": "AMD Hits Record X86 CPU Market Share As Intel Supply Stalls In Q1 &nbsp;&nbsp; HotHardware",
-          "sourceType": "News RSS"
-        },
-        {
           "title": "Prediction: AMD’s Rapid Data Center Expansion Fuels Bullish Target - AOL.com",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM25TRFNiRlpQMmFvX3JhblZkaC1DUGtBQXZ0dVhaSV9IV1J1TzR0R0s0d2huT00yZUlnc0lmUGVyU2gtU2VZOVRpZTYxUnJWTkJmQkRTUTZFdHlvQW9tbTFaX0hDOXdxeWx4cEhxcWJvb0NYeWJxaW0zRWFHMkJ0Mg?oc=5",
           "source": "AOL.com",
           "publishedAt": "2026-06-04T02:31:29.000Z",
           "snippet": "Prediction: AMD’s Rapid Data Center Expansion Fuels Bullish Target &nbsp;&nbsp; AOL.com",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now? - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWdSNkZ0MXVFYXI1QVZKVG9mY1BYR09Fd0NLNnBLeEhSZ014VUtaekdlRDJQS2M3OWJNdFB0d3NwaG54OC1QWU1VMEVOTjI0SzRyMDgtWWRXQ1prSGREV2prV0o4NFVtRVNJYnROSlFsUmRfY0pvNkk4UkI0R1p3QjAycXBSVVRBM3VYdzB4eUtDNldocUI4YnJjODVZNUMxMTlfdFY5Z3VDdXlXWUstZVhPWS16eWRsMDhSZFpOZWFvWUVPU3pIWnh5Zw?oc=5",
-          "source": "24/7 Wall St.",
-          "publishedAt": "2026-06-04T18:56:50.000Z",
-          "snippet": "AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now? &nbsp;&nbsp; 24/7 Wall St.",
           "sourceType": "News RSS"
         },
         {
@@ -539,11 +531,27 @@
           "sourceType": "News RSS"
         },
         {
+          "title": "AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now? - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWdSNkZ0MXVFYXI1QVZKVG9mY1BYR09Fd0NLNnBLeEhSZ014VUtaekdlRDJQS2M3OWJNdFB0d3NwaG54OC1QWU1VMEVOTjI0SzRyMDgtWWRXQ1prSGREV2prV0o4NFVtRVNJYnROSlFsUmRfY0pvNkk4UkI0R1p3QjAycXBSVVRBM3VYdzB4eUtDNldocUI4YnJjODVZNUMxMTlfdFY5Z3VDdXlXWUstZVhPWS16eWRsMDhSZFpOZWFvWUVPU3pIWnh5Zw?oc=5",
+          "source": "24/7 Wall St.",
+          "publishedAt": "2026-06-04T18:56:50.000Z",
+          "snippet": "AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now? &nbsp;&nbsp; 24/7 Wall St.",
+          "sourceType": "News RSS"
+        },
+        {
           "title": "$20 Billion: Inside Nvidia’s VERA CPU Bet to Break the Intel-AMD Duopoly - 24/7 Wall St.",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEpIMDBSMVRrd3JuZkJEVFYxYWxmX2hSLUFCTFZqRGRXLWhvd1VUOXpzb2gtTlY5TmgtSXNRWVBtQVk0ejBpcXVSNjhjZ2dnUC1WVlRxSXY4LVVfZnQ3d3M1N09IZkNQNG1LX2hPZGk4dWJxTFRpQ1U3cGNYSkJ5bUxWOEx3NnE2VFhjY0Z6MXV6LS1DR3dpNnhIZUJlcms1QjhLTmY2YXB5dTlCV1dkeC1NNA?oc=5",
           "source": "24/7 Wall St.",
           "publishedAt": "2026-06-04T13:29:30.000Z",
           "snippet": "$20 Billion: Inside Nvidia’s VERA CPU Bet to Break the Intel-AMD Duopoly &nbsp;&nbsp; 24/7 Wall St.",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "AMD Hits Record X86 CPU Market Share As Intel Supply Stalls In Q1 - HotHardware",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3N2cXNPLVFZdmFibTZOeWVxa05HQ1ZndkdOM2kweVJkd01wdENnVExsdmwxWkd6TTQtbFI0cWpLWXgyUTZaelZSdEI1QzhjRnZOd1lBa08xamlkeUU2Ry1vM2VjNEg2LVRBQWFfaXFyaUw0Q1ZWSDNPVXFVblZqdmNCbjR5NThaMm16WVZR?oc=5",
+          "source": "HotHardware",
+          "publishedAt": "2026-06-04T14:24:00.000Z",
+          "snippet": "AMD Hits Record X86 CPU Market Share As Intel Supply Stalls In Q1 &nbsp;&nbsp; HotHardware",
           "sourceType": "News RSS"
         },
         {
@@ -579,14 +587,6 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "Amd stock hits all-time high at 533.82 USD By Investing.com - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2JRSERSNUgxcnM3NlJ1OWx5MnFReTJnRmloTlJfdnAzcGZuWWc5NlBvdXMzRFVLTVNfenhFSFdvSTVfOGlEYVlCVHRTYUh5WlJoWXhpTGZ5SWhXb0tXZzRxOVFjWkxuVHU3Tkt1OWFjc2NCS3dFMnItWWFoMnJTSnJMLVNCbWh4OWV2b1VieG5tdllMbmQtQjZjbVY?oc=5",
-          "source": "Investing.com Canada",
-          "publishedAt": "2026-06-03T13:37:09.000Z",
-          "snippet": "Amd stock hits all-time high at 533.82 USD By Investing.com &nbsp;&nbsp; Investing.com Canada",
-          "sourceType": "News RSS"
-        },
-        {
           "title": "Ukraine pushed Russia back in May for second month running - Gulf Times",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDJCNjNtTnJwcmZOdXJVNzRlYlVCV0NYUkFiaFRuNXcxd2NHNmJGdEphc19kY2FMSzdpOXFsb0JEMzl4T1RobzZKeGRBelBoelRBMTRNNE5GdkswbnNhRk1UbTRodWxLa3licjBxcVBXTXNyV1NHTzhIdEhnbVN2RnZkanpQWTgzOWdtWi11TkROVlE3Qmd6OVFVV0h6V1RrNG5sNEEyNHpnTjJxYl9MWi1NREVZVlZzcFA4QzJLZw?oc=5",
           "source": "Gulf Times",
@@ -595,11 +595,11 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz - MSN",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObnk2VVl0WTdhUVctTUM2aWl6YzhXTEgwdEJvRDdTcDZvNVFaVzlmTm9wSmJkUXlKU1pUMGttd2ttTGtyTHVDWWVCQ1JCd25wYU1JZ3ZXd0Vza3BzMTQ3RVY2S3A3ekctUXN0TmJ2a3Q1U0p6aldnTWZZclFUTUo5LXh5QWJydUhVdWtrWW1BSUFwSU9kdFFZZ29PUVdyNm9yeTBBeF9YU2VEOHhveFpQT3pfRjg2YjhtcFVnRUdCNldTX3ZDS3kyOTVQd2xYeTJkX3ZjWnh1bHRPaHFhdGhuTzNaSGw4bk84NjhrUjl3cnBOT3FrS3g1MzFIcDFZUWc2SEpXRFpxa3A?oc=5",
+          "title": "AMD CEO Lisa Su at MIT commencement: Companies do not need people who know how to use AI tools, they need people who know… - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZExNODF0SXRadzR6a1RScXZPSE9vVnVrQkVIekxWZFlWYzM5bDNBRjBPYWNIcU9yNDlSam1QbXZ1N2lUSVMtU0VqN0lYWHloZEM3MERBLTBXLXEzSDEta2xCenR1S0Q3VGoyRmJyVFZBMmtpemhlNTVNNzFGaHhzdW5MN01BUjR6NjM5TUtuMVZuM1J3dC1zZzV0N3JicVp3el8yVmtmNTRaVGw5VmRZaS1wTE5ETExlYnFjQThlaE00STVPWDI5SWhsZjR1QWlNMGpBNGZEeUF0ZlZfbHkweTJ5LUxSRHVUd0pRNmktN2FEbC1zZl9FQ3F4Z04?oc=5",
           "source": "MSN",
-          "publishedAt": "2026-06-03T15:18:25.000Z",
-          "snippet": "In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz &nbsp;&nbsp; MSN",
+          "publishedAt": "2026-06-04T08:37:30.000Z",
+          "snippet": "AMD CEO Lisa Su at MIT commencement: Companies do not need people who know how to use AI tools, they need people who know… &nbsp;&nbsp; MSN",
           "sourceType": "News RSS"
         }
       ]
@@ -608,9 +608,9 @@
       "id": "masayoshi-son",
       "name": "Masayoshi Son / 孫正義",
       "company": "SoftBank",
-      "summary": "Masayoshi Son / SoftBank 今日抓到 23 則公開來源。最高分趨勢是 AI 基礎設施 / AI infrastructure。",
+      "summary": "Masayoshi Son / SoftBank 今日抓到 24 則公開來源。最高分趨勢是 AI 基礎設施 / AI infrastructure。",
       "metrics": {
-        "articles": 23,
+        "articles": 24,
         "sources": 15,
         "partners": 2,
         "trends": 2
@@ -668,7 +668,7 @@
             "Crypto Briefing: SoftBank’s Masayoshi Son rebounds after AI-driven recovery - Crypto Briefing",
             "CNBC: SoftBank’s OpenAI bet and rising debt are raising liquidity crunch concerns - CNBC"
           ],
-          "first": true,
+          "first": false,
           "sourceTypes": [
             "News RSS"
           ],
@@ -682,7 +682,7 @@
           "occasions": [
             "CNBC: SoftBank’s OpenAI bet and rising debt are raising liquidity crunch concerns - CNBC"
           ],
-          "first": true,
+          "first": false,
           "sourceTypes": [
             "News RSS"
           ],
@@ -739,11 +739,11 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "SoftBank's Son says AI will likely be 50x bigger than dot-com boom - MSN",
-          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNMVRFVXlGSXM3SWNYMXNoQm5XZnpfTUplbGVmbk4yWm1DaGlYUzdKNndwUTMzV1htLWZWbkJnZDZxS0NOYnNDQkpSRi16UENoaVZZYmJ4RGhaaXRwcXRHdm5xUS1JT2hJb2QwWXFoRkliOXE4V0g0NzR1MW83UGd4dDZpM2psU0E4eWUtcGJBamVaLTc3YkJPTXYyaldrUGdId01vYlBmTnpvTGtnMkVVUkFiSFZDRVZaWFFMTWQybkRwQVVBZ0ZSSDc3VFZrRXFTZEpwMV92MGRfZW1ocl9Ebm41YlVYQjZVNzd5cmkyLXpFVWxLTHRkSk1TR1dkZ2hhNkN6a042RGVoeWhHLVNDdHEzM3RUTE1iaWdJNUpvWjFpVFUteEZJcUxwSGQ0SUtOUXhEUWhRUUtLazljc1k4dzhmYUxPZnhVdWxtVXhva2FyR0lzc2FralBMNWdvRDEwVFlUd1g4Q042LU5JdzYxSDNhaVBDUGRxSUg1c09hclZIbEtJd29iUTJZZTJaMmlNcy1J?oc=5",
-          "source": "MSN",
-          "publishedAt": "2026-06-04T20:54:09.000Z",
-          "snippet": "SoftBank's Son says AI will likely be 50x bigger than dot-com boom &nbsp;&nbsp; MSN",
+          "title": "SoftBank Shares Crash 11%, Three Days After Masayoshi Son Called AI \"50x Bigger Than Dot-Com - Techloy",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDZIbDM0WGYyYWNSMFd4ZUxzdEVxeC1ORE1Ia2QtOWJfa2NzNWhOSnhQZzN0U2s5SWNPMlI1ZDIza3locHBRbHo5TmRzRHlJNEVuV1pKeDRfRzhkMjBacEM1X0RZYXNkSTBBM0pScDc3QU5nMkxzN1JtUXdwZWQ2WE1CMUlWX3RjdU92eERlR3VVVUgtSDlGR3NaYmk0QQ?oc=5",
+          "source": "Techloy",
+          "publishedAt": "2026-06-04T15:58:48.000Z",
+          "snippet": "SoftBank Shares Crash 11%, Three Days After Masayoshi Son Called AI \"50x Bigger Than Dot-Com &nbsp;&nbsp; Techloy",
           "sourceType": "News RSS"
         },
         {
@@ -755,19 +755,19 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "SoftBank Shares Crash 11%, Three Days After Masayoshi Son Called AI \"50x Bigger Than Dot-Com - Techloy",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDZIbDM0WGYyYWNSMFd4ZUxzdEVxeC1ORE1Ia2QtOWJfa2NzNWhOSnhQZzN0U2s5SWNPMlI1ZDIza3locHBRbHo5TmRzRHlJNEVuV1pKeDRfRzhkMjBacEM1X0RZYXNkSTBBM0pScDc3QU5nMkxzN1JtUXdwZWQ2WE1CMUlWX3RjdU92eERlR3VVVUgtSDlGR3NaYmk0QQ?oc=5",
-          "source": "Techloy",
-          "publishedAt": "2026-06-04T15:58:48.000Z",
-          "snippet": "SoftBank Shares Crash 11%, Three Days After Masayoshi Son Called AI \"50x Bigger Than Dot-Com &nbsp;&nbsp; Techloy",
-          "sourceType": "News RSS"
-        },
-        {
           "title": "How Larry Ellison, Masayoshi Son, Michael Saylor AI crypto billionaires reshaping legacy wealth in 2026 ma - The Economic Times",
           "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOUkRBRy11SVp3MUpLWjFGbFNZb3M4bGRZWkV1aVdTd1Z2SUFHNXZ3by1jVUtrMmJfaHVXLWxQNFJLWVlUX3FjcnNoSEJqa0Z4ZFJUZVVvQXpOYk91LVFmWExhUUlldmVicEdsZUM4MllkTkROc2s5NzdvMFJQU0RTX3ExY1JvM0dTWTZsbEJVOTVUeWp2SzVxcWd2dUo4ZDRpZExweUZoNzNIcmxjVGktN0RIcUVYRldzOGxLRDJHeVUwV2xnOVlCQ2Nia19yWUwxalFIQlhlck54dHRXWGE5OGxWdGF0MmFfa2t6SzZrNmRfbGx4VFktY0M1X2Foa0VWeEVZbzRDQkZYdHBnTXhZMjZGTEV4ekZtRXl4ekRwLXrSAaACQVVfeXFMTlJEQUctdUladzFKS1oxRmxTWW9zOGxkWVpFdWlXU3dWdklBRzV2d28tY1VLazJiX2h1Vy1sUDRSS1lZVF9xY3JzaEhCamtGeGRSVGVVb0F6TmJPdS1RZlhMYVFJZXZlYnBHbGVDODJZZE5ETnNrOTc3bzBSUFNEU19xMWNSbzNHU1k2bGxCVTk1VHlqdks1cXFndnVKOGQ0aWRMcHlGaDczSHJsY1RpLTdESHFFWEZXczhsS0QyR3lVMFdsZzlZQkNjYmtfcllMMWpRSEJYZXJOeHR0V1hhOThsVnRhdDJhX2treks2azZkX2xseFRZLWNDNV9haGtFVnhFWW80Q0JGWHRwZ014WTI2RkxFeHpGbUV5eHpEcC16?oc=5",
           "source": "The Economic Times",
           "publishedAt": "2026-06-04T22:10:00.000Z",
           "snippet": "How Larry Ellison, Masayoshi Son, Michael Saylor AI crypto billionaires reshaping legacy wealth in 2026 ma &nbsp;&nbsp; The Economic Times",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "SoftBank's Son says AI will likely be 50x bigger than dot-com boom - MSN",
+          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNMVRFVXlGSXM3SWNYMXNoQm5XZnpfTUplbGVmbk4yWm1DaGlYUzdKNndwUTMzV1htLWZWbkJnZDZxS0NOYnNDQkpSRi16UENoaVZZYmJ4RGhaaXRwcXRHdm5xUS1JT2hJb2QwWXFoRkliOXE4V0g0NzR1MW83UGd4dDZpM2psU0E4eWUtcGJBamVaLTc3YkJPTXYyaldrUGdId01vYlBmTnpvTGtnMkVVUkFiSFZDRVZaWFFMTWQybkRwQVVBZ0ZSSDc3VFZrRXFTZEpwMV92MGRfZW1ocl9Ebm41YlVYQjZVNzd5cmkyLXpFVWxLTHRkSk1TR1dkZ2hhNkN6a042RGVoeWhHLVNDdHEzM3RUTE1iaWdJNUpvWjFpVFUteEZJcUxwSGQ0SUtOUXhEUWhRUUtLazljc1k4dzhmYUxPZnhVdWxtVXhva2FyR0lzc2FralBMNWdvRDEwVFlUd1g4Q042LU5JdzYxSDNhaVBDUGRxSUg1c09hclZIbEtJd29iUTJZZTJaMmlNcy1J?oc=5",
+          "source": "MSN",
+          "publishedAt": "2026-06-04T20:54:09.000Z",
+          "snippet": "SoftBank's Son says AI will likely be 50x bigger than dot-com boom &nbsp;&nbsp; MSN",
           "sourceType": "News RSS"
         },
         {
@@ -787,27 +787,19 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOMGdqZFdCMEliSHJ1a0dHYWRTZ21KWmVfdmlfQlhUeUtrNzVTMWNUNnAtMFBQRXRJaGo3MnA2WWY1SHdSMUEzRDFsMUlDaG1aZ1pEaDNPWm9ZdVZnaTh4dS0tWmxkXzBUWU1FVTBLRDl4WVNoN05iNU9ycFR0RmZudTFyRVVPbE4tZGhwTWNrNTY4SzFjQ0VQSWQwdFRmMXZCYjR4V3A0ZFNicGtMUVdVM2diRkFzSmtjVWllbjM4emtBLVFTZTlrUVkyWG9PczBleEpncnROTjg0eXFVY0hZbWNYR1JtRC1YOFJEckZvOEZ5U09XMHljbGh6aHluMFJIYlpzb1loWmY5NVRXc2F5d0xGdnRqUTdObFF1TExFRENnN0ZiRzZlTW15alNWWkVhSmJDblZuLXRUWnlMeWlwblFn?oc=5",
-          "source": "The Times of India",
-          "publishedAt": "2026-06-03T08:33:00.000Z",
-          "snippet": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman &nbsp;&nbsp; The Times of India",
-          "sourceType": "News RSS"
-        },
-        {
-          "title": "SoftBank has ousted Toyota as Japan's most valuable company, thanks to Masayoshi Son's AI bet — and retail is paying attention - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOcmhRWE9GSjJQY01HSUlHcmlPY1BFYWRuZDY0N0JiSTZRQWhHRGNQSEk2UEs3VkhnbkZOdFUtOUN6aGV0emFablFleUxEMVR6cF8xMjNFeGIzczNTVTZGbFhheWg2SXZZTGR0Vi1GSUlSUlFWTXRYUzBZNG5SUkx6SVpXLWJ2STdQZ2hwS2pJOEJsX3JfakhfOWtaMThMaGpjZWtjTERubmhWMm5ZTEZzRjJuaGNyOXFQVjRhYVdfdThUbENDcjdJVjkxeEJ4b3F2SmJYU05jN1d3NWxodmVNNU5OLVBzUTVqdThhRWNfMXIwZnpxdkQ5WjJRbTNOcVQ0aGhPaFBaMzlCcjMzaldwX0t1ZWxoYVdnaXR2Z2h3WGtTTnhaZnBfczU5cGkxOFFrNDBhaTRaOURQbW5oUUt0X2ljTkdkaFNmVzYtZkZPRW5ObnRtaUxHb1NiRzBsa2EwWjFIeWFwai1LZTNlMm1tMDY3TE51UVBCZlQ0TE0xNHhDNVFJUWhPdzdyQTh6OGFZdG5RNVd4bk1INDJGc3VrUlpPX2xqdXJVR3hpV1ZUZXIxWUM1T3pGRnd6Yi1XWU9zbnZqM1BKbU9Mc3VET0xvTm4yRVAzcnhJUk5GcHBR?oc=5",
-          "source": "MSN",
-          "publishedAt": "2026-06-04T20:53:06.000Z",
-          "snippet": "SoftBank has ousted Toyota as Japan's most valuable company, thanks to Masayoshi Son's AI bet — and retail is paying attention &nbsp;&nbsp; MSN",
-          "sourceType": "News RSS"
-        },
-        {
           "title": "SoftBank shares plunge over 11% amid broader tech sell-off - CNBC",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXJQc01yOFJoTGNEekJWLXRTN2ViYkFucFhYWVdpUHBqZmNpYVhlYXE3bFlrYk9JSGp3cEFGQ21yUTRWN3pRWlVYYVJnengzOVA1dUVhLUpuUFBGb3RpZnozc0hTSjNxZEhkY1VTV3NtZDJxZXlHNVRUSk10dWJXUUtFZ3lZQm9IbEFwSUYyNi16b1dMMkk2dTM4VmdPa2Vq0gGmAUFVX3lxTE5aWnV5dURBc0ZlZElCSzdfcHgya242dW00UGlITVNwd2RjNzJra0s5X2dMM1psNFpNdDAxUE9EWW54NXo2UEpkOC1jc29xQnprNlhELUZxV3Bid2xUVmFDMnR0UTZiaXdaS3pXV01fZFkzQ1YzV3h1UDBCNjJlMXplMHE1aFNwU1NuTU1paS1lSkxpWFNhdlNUbVd3UXJxOHNCdjhsOFE?oc=5",
           "source": "CNBC",
           "publishedAt": "2026-06-04T05:00:36.000Z",
           "snippet": "SoftBank shares plunge over 11% amid broader tech sell-off &nbsp;&nbsp; CNBC",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "Asia's richest person for only three days—was Masayoshi Son a trendsetter of his time or a bubble chaser? - 富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnZVYWhhbVNGbnNPMUlva0NQaHdNRXRVT1J4b0xkTlcyZnFpTE1GazNpUkgzbGVZWUd1VEFLc0hjY0M2TWpWWXRDR0FFTE0yQ1FkXzRwWnBVb1Y5U09mR1h0T0hmNjVzSXFXYXZjb0pTeGtYRjUwRW5XUlpsQnJBM0VWYlYtWHhlejBSakhEbHdqY3dCMTR5aGxHcDg?oc=5",
+          "source": "富途牛牛",
+          "publishedAt": "2026-06-04T06:53:53.000Z",
+          "snippet": "Asia's richest person for only three days—was Masayoshi Son a trendsetter of his time or a bubble chaser? &nbsp;&nbsp; 富途牛牛",
           "sourceType": "News RSS"
         },
         {
@@ -827,6 +819,14 @@
           "sourceType": "News RSS"
         },
         {
+          "title": "SoftBank has ousted Toyota as Japan's most valuable company, thanks to Masayoshi Son's AI bet — and retail is paying attention - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOcmhRWE9GSjJQY01HSUlHcmlPY1BFYWRuZDY0N0JiSTZRQWhHRGNQSEk2UEs3VkhnbkZOdFUtOUN6aGV0emFablFleUxEMVR6cF8xMjNFeGIzczNTVTZGbFhheWg2SXZZTGR0Vi1GSUlSUlFWTXRYUzBZNG5SUkx6SVpXLWJ2STdQZ2hwS2pJOEJsX3JfakhfOWtaMThMaGpjZWtjTERubmhWMm5ZTEZzRjJuaGNyOXFQVjRhYVdfdThUbENDcjdJVjkxeEJ4b3F2SmJYU05jN1d3NWxodmVNNU5OLVBzUTVqdThhRWNfMXIwZnpxdkQ5WjJRbTNOcVQ0aGhPaFBaMzlCcjMzaldwX0t1ZWxoYVdnaXR2Z2h3WGtTTnhaZnBfczU5cGkxOFFrNDBhaTRaOURQbW5oUUt0X2ljTkdkaFNmVzYtZkZPRW5ObnRtaUxHb1NiRzBsa2EwWjFIeWFwai1LZTNlMm1tMDY3TE51UVBCZlQ0TE0xNHhDNVFJUWhPdzdyQTh6OGFZdG5RNVd4bk1INDJGc3VrUlpPX2xqdXJVR3hpV1ZUZXIxWUM1T3pGRnd6Yi1XWU9zbnZqM1BKbU9Mc3VET0xvTm4yRVAzcnhJUk5GcHBR?oc=5",
+          "source": "MSN",
+          "publishedAt": "2026-06-04T20:53:06.000Z",
+          "snippet": "SoftBank has ousted Toyota as Japan's most valuable company, thanks to Masayoshi Son's AI bet — and retail is paying attention &nbsp;&nbsp; MSN",
+          "sourceType": "News RSS"
+        },
+        {
           "title": "SoftBank pledges €75B (about $81B) for AI data centers in France, biggest such infrastructure bet in Europe - lavoixdefrance.fr",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWDlYLUVLYkhsREREQ2pGcjQ1dWRoNWdLMEtScU1BaTFaTnBOTThhdmh3dEFSTkpjMUZpc1A1bW9KWTJ1Vy05ZDVyYmplbHFqVHZSU2NrUlliRWRGb1l1YzdSamU3T29PdGNuZ0QtZXhZSDh4dVczS2oyR0xDcTFBUmpUSmJ2cHlzbWFBWFZsOFlPM1VNZi1iVW1QYl9aY2dkMzZhRTVJdXV5dHM2cUJDaHVPV0tyeHYxb3FzQmxqdTVIa19Ec3NBV2l5aDdnZUxPejNsRlM2T2Utd25nQmt4cQ?oc=5",
           "source": "lavoixdefrance.fr",
@@ -843,19 +843,19 @@
           "sourceType": "News RSS"
         },
         {
-          "title": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPOXVHQlQ2VXc2bld4YlNPdmItblVRcDFnWjN0LXgxMXRjckU1ZWd0d0ttNGlmd2hhRTRZWWJXalRTRGU5Ymt2YW91TzFVVldSV2h5NWxmUi1tNTNBdnBZTjhaZTViVHpjQXFLTDZSQ0ZVUWpqZWNNM3JwanZPZk9VeU56ZVhweDdBRHdfTHVXTU1qb1ZGdThYQkcwczBlU0ZPRWNtSTVtMFllSzhTOTBLVjZFUTY2eTVVY2F4dlZXT0NUM2l4dmVEOVp0Q3lQbkFhMHYwR3IxRUhkSWhUckZWY0tIcFlXRE53b1ZqVmItNGdFTUVvcVF2QUctOUVuT0hJZ1FxbncyUG9SZFJjREJhdFIwYWUwQ0t5NjVid2k2RzdPZmdjVnlHTkhZTnJNVHJ4Yjg4VldfWDZzLWc2bGZoaVdxbVJ3aEIzeW9rNUYyNDZXOHlWTkNPY2JqWlN2ZjB6Yi0xT1QyNEJKaDRFSlpMbU4zdmw0bVc0cDBzb2w5U1ExTGdoem10bE5lNmJYVkFXUVVsRHg2eV9GNmFObXNJLWx6T3dHcVJRYjdYaU92M2VxM0VEbW9VZ2FTVWV5UWRlTjBCLUR3azU2R3BzZFB1QmN2ZTgyVWM?oc=5",
-          "source": "MSN",
-          "publishedAt": "2026-06-04T08:43:49.000Z",
-          "snippet": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman &nbsp;&nbsp; MSN",
-          "sourceType": "News RSS"
-        },
-        {
           "title": "SoftBank Overtakes Toyota: How Masayoshi Son’s Bet on Sam Altman Helped Rewrite Japan’s Corporate History - English Bombay Samachar",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDFUV2Fib2FTb0JHclB4cmlNTmNiWFgyX1NLLUNUNzFzZGlKYlZsOW9hQ2hkVHhnSmZnME5OeS1nQmowWElsUS1Rdi1aNmliNlBLN0psdWpyTWNkazlSV0hlVjB6N25Bd2ozLTNPdjM1cU9LQjlONGNlelBhS3V4UjRuTWlhbTBwMnpIOGtKTWVISVBhMC1keWlvSlhDTENMWVZwZzNYNWdBbDg?oc=5",
           "source": "English Bombay Samachar",
           "publishedAt": "2026-06-03T10:27:43.000Z",
           "snippet": "SoftBank Overtakes Toyota: How Masayoshi Son’s Bet on Sam Altman Helped Rewrite Japan’s Corporate History &nbsp;&nbsp; English Bombay Samachar",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPOXVHQlQ2VXc2bld4YlNPdmItblVRcDFnWjN0LXgxMXRjckU1ZWd0d0ttNGlmd2hhRTRZWWJXalRTRGU5Ymt2YW91TzFVVldSV2h5NWxmUi1tNTNBdnBZTjhaZTViVHpjQXFLTDZSQ0ZVUWpqZWNNM3JwanZPZk9VeU56ZVhweDdBRHdfTHVXTU1qb1ZGdThYQkcwczBlU0ZPRWNtSTVtMFllSzhTOTBLVjZFUTY2eTVVY2F4dlZXT0NUM2l4dmVEOVp0Q3lQbkFhMHYwR3IxRUhkSWhUckZWY0tIcFlXRE53b1ZqVmItNGdFTUVvcVF2QUctOUVuT0hJZ1FxbncyUG9SZFJjREJhdFIwYWUwQ0t5NjVid2k2RzdPZmdjVnlHTkhZTnJNVHJ4Yjg4VldfWDZzLWc2bGZoaVdxbVJ3aEIzeW9rNUYyNDZXOHlWTkNPY2JqWlN2ZjB6Yi0xT1QyNEJKaDRFSlpMbU4zdmw0bVc0cDBzb2w5U1ExTGdoem10bE5lNmJYVkFXUVVsRHg2eV9GNmFObXNJLWx6T3dHcVJRYjdYaU92M2VxM0VEbW9VZ2FTVWV5UWRlTjBCLUR3azU2R3BzZFB1QmN2ZTgyVWM?oc=5",
+          "source": "MSN",
+          "publishedAt": "2026-06-04T08:43:49.000Z",
+          "snippet": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman &nbsp;&nbsp; MSN",
           "sourceType": "News RSS"
         },
         {
@@ -872,6 +872,14 @@
           "source": "MSN",
           "publishedAt": "2026-06-03T22:18:04.000Z",
           "snippet": "SoftBank’s CEO reveals what he thinks is the next trillion-dollar opportunity &nbsp;&nbsp; MSN",
+          "sourceType": "News RSS"
+        },
+        {
+          "title": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNREh5dEtMTmlUTUI2LWlqNDhyVHhiZnJFd0M3dGNHX1Z2dUhSUGxhYzVJRmRYMHNzbVJxYWhPdGFqWkxRRE9kaFo3Y09KU2U0Vk5HY3VkOXdIbVZFYUl1aC1kZ0RQMVVnTkpSZEliaWJsb0htUXhOQ19WYWstdTNrdTluRUlwRlhYcmhTSzJjb0stazZjNUtiLWRKNG51aDRSZTRsVENVV1laV3hlczQzMmhYYUNtRHVIQTk5RmRuejl4b3FjemtmN2p0OHVTaV9ia2lwWHRyTmtpeUs3OEs4VmdXdmoxbEZtenJydk55ajZoaUJDcU94R1FBc0lMMFBUV3MxYlZQSlh2a21MR2VDUFNLdXc0UGZZYnVRNE9qbkNJWUR4aUJ0eUVpZ0RJQW5vR010YWpRUU9neDZMVlVJLQ?oc=5",
+          "source": "MSN",
+          "publishedAt": "2026-06-03T11:29:30.000Z",
+          "snippet": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman &nbsp;&nbsp; MSN",
           "sourceType": "News RSS"
         }
       ]
@@ -909,6 +917,12 @@
       "publishedAt": "2026-06-04T20:14:00.000Z"
     },
     {
+      "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTXZzaWRhdzVTY0Jqb2dRcHFzZHdObzZyYjlwLWRwMUVka1NoQVpUU0twcWZGcjlnc21zWWFfYjNrS19iNzgxY2dJVVNXQVNYcS1vVVppRXNjenZsbDRrZw?oc=5",
+      "source": "NVIDIA Blog",
+      "publishedAt": "2026-06-05T05:44:13.000Z"
+    },
+    {
       "title": "Nvidia's Jensen Huang to make Faker his first stop in Seoul - The Korea Herald",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84czVKc18wOUpOUXpQc2FybjVuRjZ0M2g0S3U2ejFnQW9IajctUXR4Z1VobU13eGtRRU0zTkJhZG1iVHVuN20yejFHRlJpdHVQWlpHZTk1MA?oc=5",
       "source": "The Korea Herald",
@@ -921,16 +935,10 @@
       "publishedAt": "2026-06-05T03:45:38.000Z"
     },
     {
-      "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI - NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTXZzaWRhdzVTY0Jqb2dRcHFzZHdObzZyYjlwLWRwMUVka1NoQVpUU0twcWZGcjlnc21zWWFfYjNrS19iNzgxY2dJVVNXQVNYcS1vVVppRXNjenZsbDRrZw?oc=5",
-      "source": "NVIDIA Blog",
-      "publishedAt": "2026-06-05T05:44:13.000Z"
-    },
-    {
-      "title": "LIVE: Nvidia CEO Jensen Huang arrives in South Korea - Shoreline Media Group",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGdsaS1tMXhydFVRM3hsZ2Vkc3d4eE9oRG1TOFNIVHZLZG8zdllvSVoxX0NyMEdmZTA4dHlnczhlRnRFUm5Yel9DcDFYazFoWkFPSFl1eEpLM3ZGSnR6eW1OWHNzNndyb2dsMkEzeXh4T0dNaEEtZEh1cG0xS0RWXzJLOUNFMzJuRWk1bnZZR0JtbTRrSTFYak1KeUNCbUF1UzE3QnJTc0Uyb1ZkQzNxTXY2N3RSbzVRTU9QaDE1TXlqOUxRUWRPaWs2WGtqSWdsQXNHQkhTejJObVI5THpKNUg0d1RSS2hJSi1EVHBNOA?oc=5",
-      "source": "Shoreline Media Group",
-      "publishedAt": "2026-06-05T03:45:38.000Z"
+      "title": "Elizabeth Warren Wants Answers From Jensen Huang On Nvidia's China Sales: 'Opportunity To Testify...' - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ083WTB4Y3BEMHY2VnduOXJDWWtRX0x1dkN2cGRwMWlDZGl5bEZQWFByd3lFMEM3WW45ajNNS1lCNDUyUnVkRGk0ZTVqVUpJNXQ2TG5ubXdUQUdFM0Y2M3lJUWpaM0t6ems3Q0Q1WnlyQjlsZm9jVTFkMlhYalBOX1NSYmkwUjVyeWs3TWV0eWJ0cm1hQk9CeGp1RWxKZjdRczE2NHEzWkZzLXpjMXl0R2ZQTHg2eTNpSWxfSVBBaTNFRHk3SFhXbWhuU1pZWjQtUjlYM2RpVkh1SVZaNXI1WA?oc=5",
+      "source": "Benzinga",
+      "publishedAt": "2026-06-05T03:42:00.000Z"
     },
     {
       "title": "Nvidia CEO Jensen Huang Meets Faker: \"Korea is the Birthplace of Esports and an Optimal Market\" - Inven Global",
@@ -939,16 +947,10 @@
       "publishedAt": "2026-06-05T07:47:07.000Z"
     },
     {
-      "title": "Elizabeth Warren Wants Answers From Jensen Huang On Nvidia's China Sales: 'Opportunity To Testify...' - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ083WTB4Y3BEMHY2VnduOXJDWWtRX0x1dkN2cGRwMWlDZGl5bEZQWFByd3lFMEM3WW45ajNNS1lCNDUyUnVkRGk0ZTVqVUpJNXQ2TG5ubXdUQUdFM0Y2M3lJUWpaM0t6ems3Q0Q1WnlyQjlsZm9jVTFkMlhYalBOX1NSYmkwUjVyeWs3TWV0eWJ0cm1hQk9CeGp1RWxKZjdRczE2NHEzWkZzLXpjMXl0R2ZQTHg2eTNpSWxfSVBBaTNFRHk3SFhXbWhuU1pZWjQtUjlYM2RpVkh1SVZaNXI1WA?oc=5",
-      "source": "Benzinga",
-      "publishedAt": "2026-06-05T03:42:00.000Z"
-    },
-    {
-      "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkNtRE9mbFptRFZIVV9rYXRuTW5jbFFpMmRZRlpSNEthLVFuRGhfSl9WYUptT3ZDMjQ2RmFqb1RPcjZnd3ZQZlhVRzJvbFpyVWJicE52S3dHd2d3RnR1NDVkU3dybmxab0hXcThndHYwbXQ2b1l3RlAyYmFYbThoNzUza2s1OXJkQklSYllxQmpQYjlucXVLTkY1THE4d9IBowFBVV95cUxPbVFYSnBzS0hzc1Bkck1FbFl4X3F4QURobVMzZHVSSXpuRV9pTmEzb0ZqalJKMmxVdjhMa1ZRZDMySHhiSUZOU0JpWDR3bFhmbDNMTHFEcldkWlF1WS14blFEbjdLSmZrSVFqeE9aVkpEVUxXdjVyR3RwLW1oUHVWdjN4X1c2RzBhSGtseF9tY1hzRGZES1RxM2pEdGJOME1yTEZV?oc=5",
-      "source": "CNBC",
-      "publishedAt": "2026-06-04T21:43:57.000Z"
+      "title": "LIVE: Nvidia CEO Jensen Huang arrives in South Korea - Shoreline Media Group",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGdsaS1tMXhydFVRM3hsZ2Vkc3d4eE9oRG1TOFNIVHZLZG8zdllvSVoxX0NyMEdmZTA4dHlnczhlRnRFUm5Yel9DcDFYazFoWkFPSFl1eEpLM3ZGSnR6eW1OWHNzNndyb2dsMkEzeXh4T0dNaEEtZEh1cG0xS0RWXzJLOUNFMzJuRWk1bnZZR0JtbTRrSTFYak1KeUNCbUF1UzE3QnJTc0Uyb1ZkQzNxTXY2N3RSbzVRTU9QaDE1TXlqOUxRUWRPaWs2WGtqSWdsQXNHQkhTejJObVI5THpKNUg0d1RSS2hJSi1EVHBNOA?oc=5",
+      "source": "Shoreline Media Group",
+      "publishedAt": "2026-06-05T03:45:38.000Z"
     },
     {
       "title": "Nvidia CEO Jensen Huang promotes AI ties in South Korea with TV and baseball appearances - Crypto Briefing",
@@ -957,16 +959,10 @@
       "publishedAt": "2026-06-05T04:55:52.000Z"
     },
     {
-      "title": "NVIDIA CEO Jensen Huang Prepares Surprise Gift for Korea - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk44b0JHUDJMQ0kya0VHRGNRZXppaG5FdWtMZERpa01hZTU1em45NEV3ak9JY3pnZnJjRVFrMnlxQ29UTURBRVVrWC1oRldtUDJvLVNsbzNsa3ExS0c2NWlUeDZ3aEJpMExjLWhodWVGSnZZbEZzcFNGbU5QVUI2V0NRNFVEXzBv?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-06-05T06:46:50.000Z"
-    },
-    {
-      "title": "Nvidia's Jensen Huang to meet South Korean business leaders beyond HBM sector - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUtzUHBQTlBKWk9HWkp3T0cxWDRmZXNWN04tc0N1RzBaUDNrVHlvTG5KNzNRTWZQWXFvamw3Qk5VWWhqRE81S0xwbUpOQ2kyRXlyelhCYWkzcUZEM3VMZF9HSHVDMzU3c3l1YnhrSHMwOFp2UmtxZ1ZXa3p6RzJBX3RyUGs5RlFfNWxVQlktX3VIbUZobkhHYmZPTDE3WE5jWTgwZEdZRkR4UTQ?oc=5",
-      "source": "digitimes",
-      "publishedAt": "2026-06-05T04:49:58.000Z"
+      "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkNtRE9mbFptRFZIVV9rYXRuTW5jbFFpMmRZRlpSNEthLVFuRGhfSl9WYUptT3ZDMjQ2RmFqb1RPcjZnd3ZQZlhVRzJvbFpyVWJicE52S3dHd2d3RnR1NDVkU3dybmxab0hXcThndHYwbXQ2b1l3RlAyYmFYbThoNzUza2s1OXJkQklSYllxQmpQYjlucXVLTkY1THE4d9IBowFBVV95cUxPbVFYSnBzS0hzc1Bkck1FbFl4X3F4QURobVMzZHVSSXpuRV9pTmEzb0ZqalJKMmxVdjhMa1ZRZDMySHhiSUZOU0JpWDR3bFhmbDNMTHFEcldkWlF1WS14blFEbjdLSmZrSVFqeE9aVkpEVUxXdjVyR3RwLW1oUHVWdjN4X1c2RzBhSGtseF9tY1hzRGZES1RxM2pEdGJOME1yTEZV?oc=5",
+      "source": "CNBC",
+      "publishedAt": "2026-06-04T21:43:57.000Z"
     },
     {
       "title": "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises' - Reuters",
@@ -975,10 +971,22 @@
       "publishedAt": "2026-06-05T04:55:00.000Z"
     },
     {
+      "title": "Jensen Huang and Faker meet, celebrate mutual rise - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yUWM3bm11LXItaE1jeElMM0ozbVdQMVFWb1BUYXo0X2dBNE04eGhzSUdRRGd2dmNrRHZxTW51Nk1IZkJvaVJjSnB0WFNzbC1LRzVCNXJ2bw?oc=5",
+      "source": "The Korea Herald",
+      "publishedAt": "2026-06-05T08:27:39.000Z"
+    },
+    {
       "title": "Nvidia CEO Jensen Huang embarks on packed Seoul visit focused on AI, robotics - The Korea Herald",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vU1N1cGVrdXdMSFkxSGRJUE1acU9Jazgxc0tvZ2x0YUxWMC1BbnEwQjhyOFdVTy1tQTc2NVVKVVpIV29VdWp3T0xzelRHZVpsZDJ5UmZYTQ?oc=5",
       "source": "The Korea Herald",
       "publishedAt": "2026-06-05T02:24:25.000Z"
+    },
+    {
+      "title": "NVIDIA CEO Jensen Huang Prepares Surprise Gift for Korea - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk44b0JHUDJMQ0kya0VHRGNRZXppaG5FdWtMZERpa01hZTU1em45NEV3ak9JY3pnZnJjRVFrMnlxQ29UTURBRVVrWC1oRldtUDJvLVNsbzNsa3ExS0c2NWlUeDZ3aEJpMExjLWhodWVGSnZZbEZzcFNGbU5QVUI2V0NRNFVEXzBv?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-06-05T06:46:50.000Z"
     },
     {
       "title": "Nvidia’s Jensen Huang Thinks Korea’s Next Big Bet Is Robotics - Finimize",
@@ -987,10 +995,28 @@
       "publishedAt": "2026-06-05T05:01:29.000Z"
     },
     {
+      "title": "Nvidia's Jensen Huang to meet South Korean business leaders beyond HBM sector - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUtzUHBQTlBKWk9HWkp3T0cxWDRmZXNWN04tc0N1RzBaUDNrVHlvTG5KNzNRTWZQWXFvamw3Qk5VWWhqRE81S0xwbUpOQ2kyRXlyelhCYWkzcUZEM3VMZF9HSHVDMzU3c3l1YnhrSHMwOFp2UmtxZ1ZXa3p6RzJBX3RyUGs5RlFfNWxVQlktX3VIbUZobkhHYmZPTDE3WE5jWTgwZEdZRkR4UTQ?oc=5",
+      "source": "digitimes",
+      "publishedAt": "2026-06-05T04:49:58.000Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Says Robotics Is Next Key Sector for South Korea | June 2026 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWFNU2w1c2dWdXEzWm01LUFqRnpsbzk0bl95Ul9weDdFOWtLbmJIbXVGWDc1WnZmc2NTN0FnWndRZEk0YS0wcnlKQi1JMTg0M2hzVHk3dXhISlBVbktBa19DQnl6SlJmdndtSHlmVV9WX0gzaUE1dXZLTWN0LWpYT1FCVVRJMmlmUVlYemFjNVdVYjRJaWJKZWJFRGtyeTBxM1FXaGR3UEg?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-06-05T05:20:00.000Z"
+    },
+    {
       "title": "Nvidia CEO Jensen Huang visits Seoul for robotics, AI, gaming partnership - The Korea Times",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWHQzeVdYcV9wbjAzcXVyS1U5SmtrZzBlbzFWY2ZZWDhscEJfU1l4dkV2ZGdMRks4Qm1hODlnNmstRk5wRlN6Y19DQXhaQXJaQXp5TlZGUWJRRWdBamZWZDd3SkNJelAzVUZuTFcteXF0TWo1SE5pcVJHaFNUMU5rOG96NlRmdU5lYXRVb0ZtcnhSb2JjSFhTeThWc1M0Ym1jRnU4YXowUlE2WGk2MlJlMVVNdG8xZXVWLXJscHN4M2FfalpvVVlHNF9NOUpMak1L0gHQAUFVX3lxTE1YdDN5V1hxX3BuMDNxdXJLVTlKa2tnMGVvMVZjZllYOGxwQl9TWXh2RXZkZ0xGSzhCbWE4OWc2ay1GTnBGU3pjX0NBeFpBclpBenlOVkZRYlFFZ0FqZlZkN3dKQ0l6UDNVRm5MVy15cXRNajVITmlxUkdoU1QxTms4b3o2VGZ1TmVhdFVvRm1yeFJvYmNIWFN5OFZzUzRibWNGdThhejBSUTZYaTYyUmUxVU10bzFldVYtcmxwc3gzYV9qWm9VWUc0X005SkxqTUs?oc=5",
       "source": "The Korea Times",
       "publishedAt": "2026-06-05T05:13:00.000Z"
+    },
+    {
+      "title": "Jensen Huang vows to return at least half of Nvidia’s free cash flow - MSN",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQ2lic0ltWndTc2hDblkxZEdFdHhXcGxKOUltV1NiYTJfcF9qRHdkeEhYSk5GaURjVGZ1NXNtMU1LYjM5NGhXWmpsR3NSN0ZNZ0hzZUNXaTBDdmx0OVZ1TUtaeUNySlpVaHc3dXZBZWdEYXh0UkJQWjlsM1paRWEwSVEweUp3Sy0yNlBRbmQ0SkFIeGhCakZsbWJyMVp3eUVEempUQlhxenFlNy1HQnI1TEk1NjBxQW9DTUtwYndyT3B0bTAzLWstQWNuVVhmYUJ0b3paYkpSYklDRFNIeDZpOGhVSjRIX09NQmIybGZzaXlCMXhhYndZeFo2eHV1anMy?oc=5",
+      "source": "MSN",
+      "publishedAt": "2026-06-04T23:20:05.000Z"
     },
     {
       "title": "Nvidia CEO Jensen Huang visits Seoul for robotics, AI, gaming partnerships - The Korea Times",
@@ -1005,40 +1031,34 @@
       "publishedAt": "2026-06-05T05:57:06.000Z"
     },
     {
-      "title": "Why Jensen Huang is going on a charm offensive in South Korea - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtTl9WVzlyQnpOQnJEV3YwUHBWMWJoai1odmFFMVE0czdZMGRxUFRSRWtBUEJRVFhNMUQtRS1DWF9tLWFiSVREeFBsRWhONHEtX1E0a1VucmpQRktUMFdheGZHUmItdTljQi1vbFQxcXRNSVpUMF9F?oc=5",
-      "source": "AOL.com",
-      "publishedAt": "2026-06-05T06:15:00.000Z"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Says Robotics Is Next Key Sector for South Korea | June 2026 - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWFNU2w1c2dWdXEzWm01LUFqRnpsbzk0bl95Ul9weDdFOWtLbmJIbXVGWDc1WnZmc2NTN0FnWndRZEk0YS0wcnlKQi1JMTg0M2hzVHk3dXhISlBVbktBa19DQnl6SlJmdndtSHlmVV9WX0gzaUE1dXZLTWN0LWpYT1FCVVRJMmlmUVlYemFjNVdVYjRJaWJKZWJFRGtyeTBxM1FXaGR3UEg?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-06-05T05:20:00.000Z"
-    },
-    {
-      "title": "Nvidia CEO arrives in Seoul for 'second round' with physical AI, gamer meetups and pork belly on the menu - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeGJPdjRFX1ZtbkdJdUd5YkQteGpOQVVSN0pzODh1Yy15WlJOZWl3ZUpXUnFLSENLTlRORzJpajRYanItOWxkVi1WZGt2SXBpbDhjYkdMZEM0SWNUa28ydWFSQ3REcFlsZkxxbFp3UTNoX2R1ZVQzYWF1Y05yRHNkQ2VOWU5OWjAxOHpEWDByWk94eExISmtXZ0VydlZncmhLd3lBNTVDV3RYNl92V3gwTzBlcXFCTUEyVmQzRjJILUc5bmpSalZYOTU1ZlBNQ1VCSVcyb09Fdlh3M2syOWRmeS04QjQ1c1hMeVI1aGRNbjNqbVZpMF9YbzJBTGZEeHpGazV6UkhmZ0pycnNJLVE?oc=5",
-      "source": "Korea JoongAng Daily",
-      "publishedAt": "2026-06-05T07:11:29.000Z"
-    },
-    {
       "title": "AMD CEO Lisa Su drops rare message on AI careers - thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTlnQXh2bUx5V1U0MDVQZ2lXUmY2clFzNk0wc1NjR1JiSEZJUzNyOVlMV3F1WVFzVmZDUzNYUlJDSjZIX2hyeDluSjAyVUwxbEM1aTd4N0c2cWUwa2Z2SmdiR0dXajhicWU0NW9LZ2FFaHdvUHZqdWxZQkVUZmdCSHB1Nm1xWkd5cG41VGtwWnBPajQzZmE1WDM3QmZIN3ZJRk1MaVVfaUYzZw?oc=5",
       "source": "thestreet.com",
       "publishedAt": "2026-06-03T11:07:00.000Z"
     },
     {
-      "title": "AMD Stock Pops as AI Powers Strong Data-Center Demand - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2a3E2T1Q5VndTbTVUXzZuOHBWbTJ2cEN3b0w4TmxrS0RHMGt6S3duZS1BM25Ia3VXeFJiYWEwWXMtbDNoMXZHWmtTb2F4RDdaZG9TTUF0Qnlmak1vRlJPRHhlRHpNSWF6MVNJbExLQnhXUDA?oc=5",
-      "source": "AOL.com",
-      "publishedAt": "2026-06-04T21:02:05.000Z"
+      "title": "AMD Q1 2026 EARNINGS LIVE | LISA SU SPEAKS Secret Service Dhs Separation Bill (K8rGlMg44U) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Sml0Qm9fc250dVhLX045TjNXZ0hoTGM3WHN1MkZoUy1pdDlWSkxvaGk5VUtTYXhjRHBWYlhaUWY1OWc3S0ZZTUFQNnVRV2h0Ym1BU1NWVG9tX3JLc05FdA?oc=5",
+      "source": "Mshale",
+      "publishedAt": "2026-06-05T02:21:31.000Z"
+    },
+    {
+      "title": "AMD’s market cap soars past $750B for first time — CEO Lisa Su expects CPU market to grow 35% annually over next 5 years - MSN",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWZBSVpYWGl2UmFhSTRQMDlxbEJoT0VuMnBISTFkQ1pwVFFCUi0taEZiVmxkeE1qS29ZQlNoMGVEX3pTUWU4UGRZeVpTcUs4VS1hVEJHd0pSR004UU1kZHBrMzYyUTdoV2xGVnBVTEgzNnAtZ3dsdWF0c0NpMjRjSUtSbWtKcjlqWHBHQVRKZUdhbTZwa3A5alJWYmh0X1czckctWjk5OS0xRGF2ZWM4SjloSU5lZ2Iya1BRZ2pET0E2ZWFILTJNSEx0Y3R5VUtzZGh6ZmJmdkVYRk5ObnRORk1zLWJkZ1Y5MXFyS08yMTRZaGtrVTI1X2dPbE5weGdzRXRYQXRUdVRoTXNHejZPWjFlQ1BKVkhpWmtLQ3NnOTFCNUJmeTZ3MHVhZVpOVmpY?oc=5",
+      "source": "MSN",
+      "publishedAt": "2026-06-04T23:45:09.000Z"
     },
     {
       "title": "AMD’s $130,000 Decade: U.S. Chipmaker Rises from Near-Bankruptcy to AI Leader - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRl9pbF85cjNYVnhXVGtaSjhYSVdtRjFCakZUbDE2Mk83LXZuQnlIeEpBb1dONnd1b3oxQjJoNEx1b0l6RjkyNmFQa2ZlakM4SjFTVHFQX3hWaHJHMWdRaFE5NG1Gc0hnWHhvdFIyOGFlVGFtcEZCdVc1bjdRY2VhcXVkNDN6Um95Y0JkVGN6V0t0aVJmWmx5TThUdnJmYlBZNkVQUTIzQU01bVQ3LWptTE5XcFg5YVU?oc=5",
       "source": "24/7 Wall St.",
       "publishedAt": "2026-06-04T13:19:57.000Z"
+    },
+    {
+      "title": "Why AMD Stock Exploded Higher Today - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZFNjbDdleFJmeFVWNWZUV1Y5WnJaSGVfY1BwaENjSU1mN0lXZDM2SzZUNGtmOVBhWkNNZmVId1BDdWFzcEZXNFhfWHE1c29lSHBQOU1ITjBpcU5CZVpJUjAxYVFoRnMyTXJVU0xtUHVyZVhiMEl5eTBJaGpWUQ?oc=5",
+      "source": "AOL.com",
+      "publishedAt": "2026-06-05T01:35:44.000Z"
     },
     {
       "title": "Computex 2026: All the news and announcements - The Verge",
@@ -1053,16 +1073,10 @@
       "publishedAt": "2026-06-03T18:26:10.000Z"
     },
     {
-      "title": "AMD’s market cap soars past $750B for first time — CEO Lisa Su expects CPU market to grow 35% annually over next 5 years - MSN",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWZBSVpYWGl2UmFhSTRQMDlxbEJoT0VuMnBISTFkQ1pwVFFCUi0taEZiVmxkeE1qS29ZQlNoMGVEX3pTUWU4UGRZeVpTcUs4VS1hVEJHd0pSR004UU1kZHBrMzYyUTdoV2xGVnBVTEgzNnAtZ3dsdWF0c0NpMjRjSUtSbWtKcjlqWHBHQVRKZUdhbTZwa3A5alJWYmh0X1czckctWjk5OS0xRGF2ZWM4SjloSU5lZ2Iya1BRZ2pET0E2ZWFILTJNSEx0Y3R5VUtzZGh6ZmJmdkVYRk5ObnRORk1zLWJkZ1Y5MXFyS08yMTRZaGtrVTI1X2dPbE5weGdzRXRYQXRUdVRoTXNHejZPWjFlQ1BKVkhpWmtLQ3NnOTFCNUJmeTZ3MHVhZVpOVmpY?oc=5",
+      "title": "2 CEOs, 1 AI empire: Why Jensen Huang and Lisa Su are on a collision course - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWRrM29JdXlmbG9vQi03U2xlNDV0OFVDdzR4eFQ0SGdMTW1RcVllVWptMnVnbjBXMUJRajAxa2FHVUQwdmkxNkcyTFJZdjFFZUVXek11Tzh5Q0V1a3owaDR1NGdKWUJfYlF2QkN1OGlkcWdqUThMS2ZGZjNWRFl1NTY0MV9Iclk1OEllbVRPdmVhVWRvYThyQllQYmFpT05qVzJyNHJBSHdvbkdDdWlmVlNtQjFYVlgwMUJNNFdPbklLQU1IczhkXzlmbEpPN2huNzFvNHBPXzFCSjdSY3gtT3JB?oc=5",
       "source": "MSN",
-      "publishedAt": "2026-06-04T23:45:09.000Z"
-    },
-    {
-      "title": "Why AMD Stock Exploded Higher Today - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZFNjbDdleFJmeFVWNWZUV1Y5WnJaSGVfY1BwaENjSU1mN0lXZDM2SzZUNGtmOVBhWkNNZmVId1BDdWFzcEZXNFhfWHE1c29lSHBQOU1ITjBpcU5CZVpJUjAxYVFoRnMyTXJVU0xtUHVyZVhiMEl5eTBJaGpWUQ?oc=5",
-      "source": "AOL.com",
-      "publishedAt": "2026-06-05T01:35:44.000Z"
+      "publishedAt": "2026-06-04T21:34:56.000Z"
     },
     {
       "title": "NVIDIA vs. AMD: Which AI Chip Belongs in Your Retirement Portfolio? - 24/7 Wall St.",
@@ -1084,9 +1098,9 @@
     },
     {
       "title": "AMD’s $130,000 decade: US chipmaker rises from near-bankruptcy to AI leader - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGN6bU1SbjdjYmcyTW1ialdvUnBUeUVUV3RUU19TbXJ3d3FsTjNhMHpvaHlaQmRDYmZxRDRldmN2eXkya1Zqb1FZaThyYThLR1JucHJZNlpvSTNtRjVDTlNfSnkwc3pTM1FubnVYUEhpMDZqaTZVQUJPTkdVUmwwWlhqQm5HZEk3RVdMZ3BfSHBFRloxTEc5c1hCYVltZG5WaHItdUlJaEpveUF4YUNpZnpINU5kX05UR2t0SlRienA1UnAzQ25QUFpxMXcwbzVMVkMtQ2Zsdzk3YUpYTTBmb3VoUG9MWTZlQTkzYS1kSFhUSERm?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNcFZFSjhlWjVNX25MM3ZrWnlFOEU5WEhHWDZNSGhIRy1LaUlFWnBhNUIyWUVSMVNHbWs3cVNUUDBEOWJXX0tDcWVESkp2Zm9uRlJYME9IT2tiN0lsekxhQzg4Y2NaMlZEaW94VUQyWHY4MmZleURYZE1lS0hZRTB5WWRiRExnWklKQTJOTzhwNjVQRHNmc3FDNjlhQ29IM2FPWnFhajRnU1BfNk5WTTdad2xiV0NsNmowYjJqT0tjanpQQ2dCM1lna2Z6a0NGZ0RkRnRINDczMWNUSkZzLVNzcUxvNjNNU1M3eURSaFJLNG1qOW5OdE91VGVyeS1tU0JPaU85V0N3UTZoS2FGdkFxYldFbzFmS01UWkJ4dkFTdjRsTlFZcTc1X05iNHR6Mi1XNlFfWnNPWVVhM2RDSk9QazQ4NEhCemd0NnhDWTVvd1VoNS1NVWtOQk9VX3VjcE1lc3hKbktyTk8?oc=5",
       "source": "MSN",
-      "publishedAt": "2026-06-04T13:59:15.000Z"
+      "publishedAt": "2026-06-04T14:33:18.000Z"
     },
     {
       "title": "Advanced Micro Devices (NASDAQ: AMD) Outpaces Intel (NASDAQ: INTC) On Cash Flow And Data Center Growth - foreignpolicyjournal.com",
@@ -1095,22 +1109,10 @@
       "publishedAt": "2026-06-03T23:02:00.000Z"
     },
     {
-      "title": "AMD Hits Record X86 CPU Market Share As Intel Supply Stalls In Q1 - HotHardware",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3N2cXNPLVFZdmFibTZOeWVxa05HQ1ZndkdOM2kweVJkd01wdENnVExsdmwxWkd6TTQtbFI0cWpLWXgyUTZaelZSdEI1QzhjRnZOd1lBa08xamlkeUU2Ry1vM2VjNEg2LVRBQWFfaXFyaUw0Q1ZWSDNPVXFVblZqdmNCbjR5NThaMm16WVZR?oc=5",
-      "source": "HotHardware",
-      "publishedAt": "2026-06-04T14:24:00.000Z"
-    },
-    {
       "title": "Prediction: AMD’s Rapid Data Center Expansion Fuels Bullish Target - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM25TRFNiRlpQMmFvX3JhblZkaC1DUGtBQXZ0dVhaSV9IV1J1TzR0R0s0d2huT00yZUlnc0lmUGVyU2gtU2VZOVRpZTYxUnJWTkJmQkRTUTZFdHlvQW9tbTFaX0hDOXdxeWx4cEhxcWJvb0NYeWJxaW0zRWFHMkJ0Mg?oc=5",
       "source": "AOL.com",
       "publishedAt": "2026-06-04T02:31:29.000Z"
-    },
-    {
-      "title": "AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWdSNkZ0MXVFYXI1QVZKVG9mY1BYR09Fd0NLNnBLeEhSZ014VUtaekdlRDJQS2M3OWJNdFB0d3NwaG54OC1QWU1VMEVOTjI0SzRyMDgtWWRXQ1prSGREV2prV0o4NFVtRVNJYnROSlFsUmRfY0pvNkk4UkI0R1p3QjAycXBSVVRBM3VYdzB4eUtDNldocUI4YnJjODVZNUMxMTlfdFY5Z3VDdXlXWUstZVhPWS16eWRsMDhSZFpOZWFvWUVPU3pIWnh5Zw?oc=5",
-      "source": "24/7 Wall St.",
-      "publishedAt": "2026-06-04T18:56:50.000Z"
     },
     {
       "title": "History Warns Advanced Micro Devices Investors About This - AOL.com",
@@ -1119,10 +1121,22 @@
       "publishedAt": "2026-06-04T03:37:58.000Z"
     },
     {
+      "title": "AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWdSNkZ0MXVFYXI1QVZKVG9mY1BYR09Fd0NLNnBLeEhSZ014VUtaekdlRDJQS2M3OWJNdFB0d3NwaG54OC1QWU1VMEVOTjI0SzRyMDgtWWRXQ1prSGREV2prV0o4NFVtRVNJYnROSlFsUmRfY0pvNkk4UkI0R1p3QjAycXBSVVRBM3VYdzB4eUtDNldocUI4YnJjODVZNUMxMTlfdFY5Z3VDdXlXWUstZVhPWS16eWRsMDhSZFpOZWFvWUVPU3pIWnh5Zw?oc=5",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2026-06-04T18:56:50.000Z"
+    },
+    {
       "title": "$20 Billion: Inside Nvidia’s VERA CPU Bet to Break the Intel-AMD Duopoly - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEpIMDBSMVRrd3JuZkJEVFYxYWxmX2hSLUFCTFZqRGRXLWhvd1VUOXpzb2gtTlY5TmgtSXNRWVBtQVk0ejBpcXVSNjhjZ2dnUC1WVlRxSXY4LVVfZnQ3d3M1N09IZkNQNG1LX2hPZGk4dWJxTFRpQ1U3cGNYSkJ5bUxWOEx3NnE2VFhjY0Z6MXV6LS1DR3dpNnhIZUJlcms1QjhLTmY2YXB5dTlCV1dkeC1NNA?oc=5",
       "source": "24/7 Wall St.",
       "publishedAt": "2026-06-04T13:29:30.000Z"
+    },
+    {
+      "title": "AMD Hits Record X86 CPU Market Share As Intel Supply Stalls In Q1 - HotHardware",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3N2cXNPLVFZdmFibTZOeWVxa05HQ1ZndkdOM2kweVJkd01wdENnVExsdmwxWkd6TTQtbFI0cWpLWXgyUTZaelZSdEI1QzhjRnZOd1lBa08xamlkeUU2Ry1vM2VjNEg2LVRBQWFfaXFyaUw0Q1ZWSDNPVXFVblZqdmNCbjR5NThaMm16WVZR?oc=5",
+      "source": "HotHardware",
+      "publishedAt": "2026-06-04T14:24:00.000Z"
     },
     {
       "title": "AMD at $518 With a $600 Price Target — What the Gamma Structure Says About Getting There - Moomoo",
@@ -1149,22 +1163,16 @@
       "publishedAt": "2026-06-03T15:14:06.000Z"
     },
     {
-      "title": "Amd stock hits all-time high at 533.82 USD By Investing.com - Investing.com Canada",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2JRSERSNUgxcnM3NlJ1OWx5MnFReTJnRmloTlJfdnAzcGZuWWc5NlBvdXMzRFVLTVNfenhFSFdvSTVfOGlEYVlCVHRTYUh5WlJoWXhpTGZ5SWhXb0tXZzRxOVFjWkxuVHU3Tkt1OWFjc2NCS3dFMnItWWFoMnJTSnJMLVNCbWh4OWV2b1VieG5tdllMbmQtQjZjbVY?oc=5",
-      "source": "Investing.com Canada",
-      "publishedAt": "2026-06-03T13:37:09.000Z"
-    },
-    {
       "title": "Ukraine pushed Russia back in May for second month running - Gulf Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDJCNjNtTnJwcmZOdXJVNzRlYlVCV0NYUkFiaFRuNXcxd2NHNmJGdEphc19kY2FMSzdpOXFsb0JEMzl4T1RobzZKeGRBelBoelRBMTRNNE5GdkswbnNhRk1UbTRodWxLa3licjBxcVBXTXNyV1NHTzhIdEhnbVN2RnZkanpQWTgzOWdtWi11TkROVlE3Qmd6OVFVV0h6V1RrNG5sNEEyNHpnTjJxYl9MWi1NREVZVlZzcFA4QzJLZw?oc=5",
       "source": "Gulf Times",
       "publishedAt": "2026-06-03T21:00:00.000Z"
     },
     {
-      "title": "In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObnk2VVl0WTdhUVctTUM2aWl6YzhXTEgwdEJvRDdTcDZvNVFaVzlmTm9wSmJkUXlKU1pUMGttd2ttTGtyTHVDWWVCQ1JCd25wYU1JZ3ZXd0Vza3BzMTQ3RVY2S3A3ekctUXN0TmJ2a3Q1U0p6aldnTWZZclFUTUo5LXh5QWJydUhVdWtrWW1BSUFwSU9kdFFZZ29PUVdyNm9yeTBBeF9YU2VEOHhveFpQT3pfRjg2YjhtcFVnRUdCNldTX3ZDS3kyOTVQd2xYeTJkX3ZjWnh1bHRPaHFhdGhuTzNaSGw4bk84NjhrUjl3cnBOT3FrS3g1MzFIcDFZUWc2SEpXRFpxa3A?oc=5",
+      "title": "AMD CEO Lisa Su at MIT commencement: Companies do not need people who know how to use AI tools, they need people who know… - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZExNODF0SXRadzR6a1RScXZPSE9vVnVrQkVIekxWZFlWYzM5bDNBRjBPYWNIcU9yNDlSam1QbXZ1N2lUSVMtU0VqN0lYWHloZEM3MERBLTBXLXEzSDEta2xCenR1S0Q3VGoyRmJyVFZBMmtpemhlNTVNNzFGaHhzdW5MN01BUjR6NjM5TUtuMVZuM1J3dC1zZzV0N3JicVp3el8yVmtmNTRaVGw5VmRZaS1wTE5ETExlYnFjQThlaE00STVPWDI5SWhsZjR1QWlNMGpBNGZEeUF0ZlZfbHkweTJ5LUxSRHVUd0pRNmktN2FEbC1zZl9FQ3F4Z04?oc=5",
       "source": "MSN",
-      "publishedAt": "2026-06-03T15:18:25.000Z"
+      "publishedAt": "2026-06-04T08:37:30.000Z"
     },
     {
       "title": "SoftBank Has Ousted Toyota As Japan's Most Valuable Company, Thanks To Masayoshi Son's AI Bet — And Retail Is Paying Attention - Stocktwits",
@@ -1203,10 +1211,10 @@
       "publishedAt": "2026-06-04T00:30:00.000Z"
     },
     {
-      "title": "SoftBank's Son says AI will likely be 50x bigger than dot-com boom - MSN",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNMVRFVXlGSXM3SWNYMXNoQm5XZnpfTUplbGVmbk4yWm1DaGlYUzdKNndwUTMzV1htLWZWbkJnZDZxS0NOYnNDQkpSRi16UENoaVZZYmJ4RGhaaXRwcXRHdm5xUS1JT2hJb2QwWXFoRkliOXE4V0g0NzR1MW83UGd4dDZpM2psU0E4eWUtcGJBamVaLTc3YkJPTXYyaldrUGdId01vYlBmTnpvTGtnMkVVUkFiSFZDRVZaWFFMTWQybkRwQVVBZ0ZSSDc3VFZrRXFTZEpwMV92MGRfZW1ocl9Ebm41YlVYQjZVNzd5cmkyLXpFVWxLTHRkSk1TR1dkZ2hhNkN6a042RGVoeWhHLVNDdHEzM3RUTE1iaWdJNUpvWjFpVFUteEZJcUxwSGQ0SUtOUXhEUWhRUUtLazljc1k4dzhmYUxPZnhVdWxtVXhva2FyR0lzc2FralBMNWdvRDEwVFlUd1g4Q042LU5JdzYxSDNhaVBDUGRxSUg1c09hclZIbEtJd29iUTJZZTJaMmlNcy1J?oc=5",
-      "source": "MSN",
-      "publishedAt": "2026-06-04T20:54:09.000Z"
+      "title": "SoftBank Shares Crash 11%, Three Days After Masayoshi Son Called AI \"50x Bigger Than Dot-Com - Techloy",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDZIbDM0WGYyYWNSMFd4ZUxzdEVxeC1ORE1Ia2QtOWJfa2NzNWhOSnhQZzN0U2s5SWNPMlI1ZDIza3locHBRbHo5TmRzRHlJNEVuV1pKeDRfRzhkMjBacEM1X0RZYXNkSTBBM0pScDc3QU5nMkxzN1JtUXdwZWQ2WE1CMUlWX3RjdU92eERlR3VVVUgtSDlGR3NaYmk0QQ?oc=5",
+      "source": "Techloy",
+      "publishedAt": "2026-06-04T15:58:48.000Z"
     },
     {
       "title": "SoftBank’s Masayoshi Son Becomes Asia’s Richest Person Amid AI Boom - Forbes",
@@ -1215,16 +1223,16 @@
       "publishedAt": "2026-06-03T08:50:41.000Z"
     },
     {
-      "title": "SoftBank Shares Crash 11%, Three Days After Masayoshi Son Called AI \"50x Bigger Than Dot-Com - Techloy",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDZIbDM0WGYyYWNSMFd4ZUxzdEVxeC1ORE1Ia2QtOWJfa2NzNWhOSnhQZzN0U2s5SWNPMlI1ZDIza3locHBRbHo5TmRzRHlJNEVuV1pKeDRfRzhkMjBacEM1X0RZYXNkSTBBM0pScDc3QU5nMkxzN1JtUXdwZWQ2WE1CMUlWX3RjdU92eERlR3VVVUgtSDlGR3NaYmk0QQ?oc=5",
-      "source": "Techloy",
-      "publishedAt": "2026-06-04T15:58:48.000Z"
-    },
-    {
       "title": "How Larry Ellison, Masayoshi Son, Michael Saylor AI crypto billionaires reshaping legacy wealth in 2026 ma - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOUkRBRy11SVp3MUpLWjFGbFNZb3M4bGRZWkV1aVdTd1Z2SUFHNXZ3by1jVUtrMmJfaHVXLWxQNFJLWVlUX3FjcnNoSEJqa0Z4ZFJUZVVvQXpOYk91LVFmWExhUUlldmVicEdsZUM4MllkTkROc2s5NzdvMFJQU0RTX3ExY1JvM0dTWTZsbEJVOTVUeWp2SzVxcWd2dUo4ZDRpZExweUZoNzNIcmxjVGktN0RIcUVYRldzOGxLRDJHeVUwV2xnOVlCQ2Nia19yWUwxalFIQlhlck54dHRXWGE5OGxWdGF0MmFfa2t6SzZrNmRfbGx4VFktY0M1X2Foa0VWeEVZbzRDQkZYdHBnTXhZMjZGTEV4ekZtRXl4ekRwLXrSAaACQVVfeXFMTlJEQUctdUladzFKS1oxRmxTWW9zOGxkWVpFdWlXU3dWdklBRzV2d28tY1VLazJiX2h1Vy1sUDRSS1lZVF9xY3JzaEhCamtGeGRSVGVVb0F6TmJPdS1RZlhMYVFJZXZlYnBHbGVDODJZZE5ETnNrOTc3bzBSUFNEU19xMWNSbzNHU1k2bGxCVTk1VHlqdks1cXFndnVKOGQ0aWRMcHlGaDczSHJsY1RpLTdESHFFWEZXczhsS0QyR3lVMFdsZzlZQkNjYmtfcllMMWpRSEJYZXJOeHR0V1hhOThsVnRhdDJhX2treks2azZkX2xseFRZLWNDNV9haGtFVnhFWW80Q0JGWHRwZ014WTI2RkxFeHpGbUV5eHpEcC16?oc=5",
       "source": "The Economic Times",
       "publishedAt": "2026-06-04T22:10:00.000Z"
+    },
+    {
+      "title": "SoftBank's Son says AI will likely be 50x bigger than dot-com boom - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNMVRFVXlGSXM3SWNYMXNoQm5XZnpfTUplbGVmbk4yWm1DaGlYUzdKNndwUTMzV1htLWZWbkJnZDZxS0NOYnNDQkpSRi16UENoaVZZYmJ4RGhaaXRwcXRHdm5xUS1JT2hJb2QwWXFoRkliOXE4V0g0NzR1MW83UGd4dDZpM2psU0E4eWUtcGJBamVaLTc3YkJPTXYyaldrUGdId01vYlBmTnpvTGtnMkVVUkFiSFZDRVZaWFFMTWQybkRwQVVBZ0ZSSDc3VFZrRXFTZEpwMV92MGRfZW1ocl9Ebm41YlVYQjZVNzd5cmkyLXpFVWxLTHRkSk1TR1dkZ2hhNkN6a042RGVoeWhHLVNDdHEzM3RUTE1iaWdJNUpvWjFpVFUteEZJcUxwSGQ0SUtOUXhEUWhRUUtLazljc1k4dzhmYUxPZnhVdWxtVXhva2FyR0lzc2FralBMNWdvRDEwVFlUd1g4Q042LU5JdzYxSDNhaVBDUGRxSUg1c09hclZIbEtJd29iUTJZZTJaMmlNcy1J?oc=5",
+      "source": "MSN",
+      "publishedAt": "2026-06-04T20:54:09.000Z"
     },
     {
       "title": "SoftBank Group founder Masayoshi Son becomes Asia's richest billionaire amid AI boom - VnExpress International",
@@ -1239,22 +1247,16 @@
       "publishedAt": "2026-06-04T01:48:00.000Z"
     },
     {
-      "title": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOMGdqZFdCMEliSHJ1a0dHYWRTZ21KWmVfdmlfQlhUeUtrNzVTMWNUNnAtMFBQRXRJaGo3MnA2WWY1SHdSMUEzRDFsMUlDaG1aZ1pEaDNPWm9ZdVZnaTh4dS0tWmxkXzBUWU1FVTBLRDl4WVNoN05iNU9ycFR0RmZudTFyRVVPbE4tZGhwTWNrNTY4SzFjQ0VQSWQwdFRmMXZCYjR4V3A0ZFNicGtMUVdVM2diRkFzSmtjVWllbjM4emtBLVFTZTlrUVkyWG9PczBleEpncnROTjg0eXFVY0hZbWNYR1JtRC1YOFJEckZvOEZ5U09XMHljbGh6aHluMFJIYlpzb1loWmY5NVRXc2F5d0xGdnRqUTdObFF1TExFRENnN0ZiRzZlTW15alNWWkVhSmJDblZuLXRUWnlMeWlwblFn?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-03T08:33:00.000Z"
-    },
-    {
-      "title": "SoftBank has ousted Toyota as Japan's most valuable company, thanks to Masayoshi Son's AI bet — and retail is paying attention - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOcmhRWE9GSjJQY01HSUlHcmlPY1BFYWRuZDY0N0JiSTZRQWhHRGNQSEk2UEs3VkhnbkZOdFUtOUN6aGV0emFablFleUxEMVR6cF8xMjNFeGIzczNTVTZGbFhheWg2SXZZTGR0Vi1GSUlSUlFWTXRYUzBZNG5SUkx6SVpXLWJ2STdQZ2hwS2pJOEJsX3JfakhfOWtaMThMaGpjZWtjTERubmhWMm5ZTEZzRjJuaGNyOXFQVjRhYVdfdThUbENDcjdJVjkxeEJ4b3F2SmJYU05jN1d3NWxodmVNNU5OLVBzUTVqdThhRWNfMXIwZnpxdkQ5WjJRbTNOcVQ0aGhPaFBaMzlCcjMzaldwX0t1ZWxoYVdnaXR2Z2h3WGtTTnhaZnBfczU5cGkxOFFrNDBhaTRaOURQbW5oUUt0X2ljTkdkaFNmVzYtZkZPRW5ObnRtaUxHb1NiRzBsa2EwWjFIeWFwai1LZTNlMm1tMDY3TE51UVBCZlQ0TE0xNHhDNVFJUWhPdzdyQTh6OGFZdG5RNVd4bk1INDJGc3VrUlpPX2xqdXJVR3hpV1ZUZXIxWUM1T3pGRnd6Yi1XWU9zbnZqM1BKbU9Mc3VET0xvTm4yRVAzcnhJUk5GcHBR?oc=5",
-      "source": "MSN",
-      "publishedAt": "2026-06-04T20:53:06.000Z"
-    },
-    {
       "title": "SoftBank shares plunge over 11% amid broader tech sell-off - CNBC",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXJQc01yOFJoTGNEekJWLXRTN2ViYkFucFhYWVdpUHBqZmNpYVhlYXE3bFlrYk9JSGp3cEFGQ21yUTRWN3pRWlVYYVJnengzOVA1dUVhLUpuUFBGb3RpZnozc0hTSjNxZEhkY1VTV3NtZDJxZXlHNVRUSk10dWJXUUtFZ3lZQm9IbEFwSUYyNi16b1dMMkk2dTM4VmdPa2Vq0gGmAUFVX3lxTE5aWnV5dURBc0ZlZElCSzdfcHgya242dW00UGlITVNwd2RjNzJra0s5X2dMM1psNFpNdDAxUE9EWW54NXo2UEpkOC1jc29xQnprNlhELUZxV3Bid2xUVmFDMnR0UTZiaXdaS3pXV01fZFkzQ1YzV3h1UDBCNjJlMXplMHE1aFNwU1NuTU1paS1lSkxpWFNhdlNUbVd3UXJxOHNCdjhsOFE?oc=5",
       "source": "CNBC",
       "publishedAt": "2026-06-04T05:00:36.000Z"
+    },
+    {
+      "title": "Asia's richest person for only three days—was Masayoshi Son a trendsetter of his time or a bubble chaser? - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnZVYWhhbVNGbnNPMUlva0NQaHdNRXRVT1J4b0xkTlcyZnFpTE1GazNpUkgzbGVZWUd1VEFLc0hjY0M2TWpWWXRDR0FFTE0yQ1FkXzRwWnBVb1Y5U09mR1h0T0hmNjVzSXFXYXZjb0pTeGtYRjUwRW5XUlpsQnJBM0VWYlYtWHhlejBSakhEbHdqY3dCMTR5aGxHcDg?oc=5",
+      "source": "富途牛牛",
+      "publishedAt": "2026-06-04T06:53:53.000Z"
     },
     {
       "title": "Masayoshi Son loses his title as Asia's richest man, with his personal net worth shrinking by $13.2 billion in a single day - Bitget",
@@ -1269,6 +1271,12 @@
       "publishedAt": "2026-06-04T08:10:16.000Z"
     },
     {
+      "title": "SoftBank has ousted Toyota as Japan's most valuable company, thanks to Masayoshi Son's AI bet — and retail is paying attention - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOcmhRWE9GSjJQY01HSUlHcmlPY1BFYWRuZDY0N0JiSTZRQWhHRGNQSEk2UEs3VkhnbkZOdFUtOUN6aGV0emFablFleUxEMVR6cF8xMjNFeGIzczNTVTZGbFhheWg2SXZZTGR0Vi1GSUlSUlFWTXRYUzBZNG5SUkx6SVpXLWJ2STdQZ2hwS2pJOEJsX3JfakhfOWtaMThMaGpjZWtjTERubmhWMm5ZTEZzRjJuaGNyOXFQVjRhYVdfdThUbENDcjdJVjkxeEJ4b3F2SmJYU05jN1d3NWxodmVNNU5OLVBzUTVqdThhRWNfMXIwZnpxdkQ5WjJRbTNOcVQ0aGhPaFBaMzlCcjMzaldwX0t1ZWxoYVdnaXR2Z2h3WGtTTnhaZnBfczU5cGkxOFFrNDBhaTRaOURQbW5oUUt0X2ljTkdkaFNmVzYtZkZPRW5ObnRtaUxHb1NiRzBsa2EwWjFIeWFwai1LZTNlMm1tMDY3TE51UVBCZlQ0TE0xNHhDNVFJUWhPdzdyQTh6OGFZdG5RNVd4bk1INDJGc3VrUlpPX2xqdXJVR3hpV1ZUZXIxWUM1T3pGRnd6Yi1XWU9zbnZqM1BKbU9Mc3VET0xvTm4yRVAzcnhJUk5GcHBR?oc=5",
+      "source": "MSN",
+      "publishedAt": "2026-06-04T20:53:06.000Z"
+    },
+    {
       "title": "SoftBank pledges €75B (about $81B) for AI data centers in France, biggest such infrastructure bet in Europe - lavoixdefrance.fr",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWDlYLUVLYkhsREREQ2pGcjQ1dWRoNWdLMEtScU1BaTFaTnBOTThhdmh3dEFSTkpjMUZpc1A1bW9KWTJ1Vy05ZDVyYmplbHFqVHZSU2NrUlliRWRGb1l1YzdSamU3T29PdGNuZ0QtZXhZSDh4dVczS2oyR0xDcTFBUmpUSmJ2cHlzbWFBWFZsOFlPM1VNZi1iVW1QYl9aY2dkMzZhRTVJdXV5dHM2cUJDaHVPV0tyeHYxb3FzQmxqdTVIa19Ec3NBV2l5aDdnZUxPejNsRlM2T2Utd25nQmt4cQ?oc=5",
       "source": "lavoixdefrance.fr",
@@ -1281,16 +1289,16 @@
       "publishedAt": "2026-06-04T04:55:06.000Z"
     },
     {
-      "title": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPOXVHQlQ2VXc2bld4YlNPdmItblVRcDFnWjN0LXgxMXRjckU1ZWd0d0ttNGlmd2hhRTRZWWJXalRTRGU5Ymt2YW91TzFVVldSV2h5NWxmUi1tNTNBdnBZTjhaZTViVHpjQXFLTDZSQ0ZVUWpqZWNNM3JwanZPZk9VeU56ZVhweDdBRHdfTHVXTU1qb1ZGdThYQkcwczBlU0ZPRWNtSTVtMFllSzhTOTBLVjZFUTY2eTVVY2F4dlZXT0NUM2l4dmVEOVp0Q3lQbkFhMHYwR3IxRUhkSWhUckZWY0tIcFlXRE53b1ZqVmItNGdFTUVvcVF2QUctOUVuT0hJZ1FxbncyUG9SZFJjREJhdFIwYWUwQ0t5NjVid2k2RzdPZmdjVnlHTkhZTnJNVHJ4Yjg4VldfWDZzLWc2bGZoaVdxbVJ3aEIzeW9rNUYyNDZXOHlWTkNPY2JqWlN2ZjB6Yi0xT1QyNEJKaDRFSlpMbU4zdmw0bVc0cDBzb2w5U1ExTGdoem10bE5lNmJYVkFXUVVsRHg2eV9GNmFObXNJLWx6T3dHcVJRYjdYaU92M2VxM0VEbW9VZ2FTVWV5UWRlTjBCLUR3azU2R3BzZFB1QmN2ZTgyVWM?oc=5",
-      "source": "MSN",
-      "publishedAt": "2026-06-04T08:43:49.000Z"
-    },
-    {
       "title": "SoftBank Overtakes Toyota: How Masayoshi Son’s Bet on Sam Altman Helped Rewrite Japan’s Corporate History - English Bombay Samachar",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDFUV2Fib2FTb0JHclB4cmlNTmNiWFgyX1NLLUNUNzFzZGlKYlZsOW9hQ2hkVHhnSmZnME5OeS1nQmowWElsUS1Rdi1aNmliNlBLN0psdWpyTWNkazlSV0hlVjB6N25Bd2ozLTNPdjM1cU9LQjlONGNlelBhS3V4UjRuTWlhbTBwMnpIOGtKTWVISVBhMC1keWlvSlhDTENMWVZwZzNYNWdBbDg?oc=5",
       "source": "English Bombay Samachar",
       "publishedAt": "2026-06-03T10:27:43.000Z"
+    },
+    {
+      "title": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPOXVHQlQ2VXc2bld4YlNPdmItblVRcDFnWjN0LXgxMXRjckU1ZWd0d0ttNGlmd2hhRTRZWWJXalRTRGU5Ymt2YW91TzFVVldSV2h5NWxmUi1tNTNBdnBZTjhaZTViVHpjQXFLTDZSQ0ZVUWpqZWNNM3JwanZPZk9VeU56ZVhweDdBRHdfTHVXTU1qb1ZGdThYQkcwczBlU0ZPRWNtSTVtMFllSzhTOTBLVjZFUTY2eTVVY2F4dlZXT0NUM2l4dmVEOVp0Q3lQbkFhMHYwR3IxRUhkSWhUckZWY0tIcFlXRE53b1ZqVmItNGdFTUVvcVF2QUctOUVuT0hJZ1FxbncyUG9SZFJjREJhdFIwYWUwQ0t5NjVid2k2RzdPZmdjVnlHTkhZTnJNVHJ4Yjg4VldfWDZzLWc2bGZoaVdxbVJ3aEIzeW9rNUYyNDZXOHlWTkNPY2JqWlN2ZjB6Yi0xT1QyNEJKaDRFSlpMbU4zdmw0bVc0cDBzb2w5U1ExTGdoem10bE5lNmJYVkFXUVVsRHg2eV9GNmFObXNJLWx6T3dHcVJRYjdYaU92M2VxM0VEbW9VZ2FTVWV5UWRlTjBCLUR3azU2R3BzZFB1QmN2ZTgyVWM?oc=5",
+      "source": "MSN",
+      "publishedAt": "2026-06-04T08:43:49.000Z"
     },
     {
       "title": "SoftBank's shares are down 10% amid broader tech sell-off - CNBC",
@@ -1303,6 +1311,12 @@
       "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWHdPV2phOXZqREN6eWlpOGxpeENCQTlFazlvX1VYd25YQzdFNXhmUmNCQ19FcWhqSnhEQ3ItbTdJeW1ncF9heG93SkpWQUdTMDl5N1pWOVpTVG1KR05BU3MzWk5UVV9oeUNnUG1SWUx2a0N3dENnRmw4QkNINzIxT2htcDBfbW1nQXVpTWJnWVN0RHlWNXY2NHhCNTdrZW43anpVbXZQOVV2aUtXdlc0RGFlaEVOQnkwTE5WT3FqMUJuTHBPZE9WWFVNbjhnVlRqQkNjazlCZWNlcnhZUG0tS3JoTkxWT2lhYnZ0YnIyUTB1UHhvbTUyYXFOUXdLMEQyclpzbU1IOWZlNTRBOThuU1E5ZkYtNHVUNW56NVQ4MF9USWNvbF9hTm5sUlpvRFF1TDFMdi15QnotNWtNcF9oRE9ZZzBJNmRVMU16blJucE5PMFFkclpCcXFUX0E2bVhuY3o1RXFNalVzT2pFYVBYOExwOUdtLU53UUpDWU1hY1ZiMURSZE5KTDVRb3pKQTVIMGxveUZMX1NPZWg0WU8wSlB4NE5lNDFfQ2lZVkVNVmtQVWo3Y1ZFQjNHYXhIc0s2UVRzZktTeXNOV3hGSHFlbFhTVQ?oc=5",
       "source": "MSN",
       "publishedAt": "2026-06-03T22:18:04.000Z"
+    },
+    {
+      "title": "As SoftBank Group beats Toyota to become Japan's most valuable company after more than 20 years; founder Masayoshi Son can thank Sam Altman - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNREh5dEtMTmlUTUI2LWlqNDhyVHhiZnJFd0M3dGNHX1Z2dUhSUGxhYzVJRmRYMHNzbVJxYWhPdGFqWkxRRE9kaFo3Y09KU2U0Vk5HY3VkOXdIbVZFYUl1aC1kZ0RQMVVnTkpSZEliaWJsb0htUXhOQ19WYWstdTNrdTluRUlwRlhYcmhTSzJjb0stazZjNUtiLWRKNG51aDRSZTRsVENVV1laV3hlczQzMmhYYUNtRHVIQTk5RmRuejl4b3FjemtmN2p0OHVTaV9ia2lwWHRyTmtpeUs3OEs4VmdXdmoxbEZtenJydk55ajZoaUJDcU94R1FBc0lMMFBUV3MxYlZQSlh2a21MR2VDUFNLdXc0UGZZYnVRNE9qbkNJWUR4aUJ0eUVpZ0RJQW5vR010YWpRUU9neDZMVlVJLQ?oc=5",
+      "source": "MSN",
+      "publishedAt": "2026-06-03T11:29:30.000Z"
     }
   ]
 }
