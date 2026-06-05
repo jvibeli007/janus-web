@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-06-05 16:04 Asia/Taipei",
+  "period": "2026-06-04 ~ 2026-06-05",
+  "mode": "Fallback Snapshot",
+  "sourceStatus": "No live source was available. Fallback data is shown until the next successful update.",
+  "celebrities": [
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang / 黃仁勳",
+      "company": "NVIDIA",
+      "summary": "Fallback demo data is loaded. The live updater will replace this with fresh public-news signals each day.",
+      "metrics": { "articles": 0, "sources": 0, "partners": 3, "trends": 3 },
+      "trends": [
+        { "id": "ai-infrastructure", "title": "AI infrastructure", "score": 82, "summary": "Daily updater tracks AI infrastructure signals.", "technology": ["AI", "GPU", "cloud"], "impact": "Placeholder until live sources are available.", "sources": [] },
+        { "id": "partnership", "title": "Partnership", "score": 78, "summary": "Partner extraction compares daily signals against history.", "technology": ["entity detection", "history"], "impact": "First mention becomes stronger as history grows.", "sources": [] },
+        { "id": "market", "title": "Market signal", "score": 72, "summary": "Market reactions are grouped separately.", "technology": ["earnings", "revenue", "stock"], "impact": "Production can later attach market-data connectors.", "sources": [] }
+      ],
+      "partners": [
+        { "partner": "NVIDIA", "type": "Tracked company", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" },
+        { "partner": "OpenAI", "type": "Known ecosystem entity", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" },
+        { "partner": "TSMC", "type": "Known ecosystem entity", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" }
+      ],
+      "articles": []
+    },
+    {
+      "id": "lisa-su",
+      "name": "Lisa Su / 蘇姿丰",
+      "company": "AMD",
+      "summary": "Fallback demo data is loaded. The live updater will replace this with fresh public-news signals each day.",
+      "metrics": { "articles": 0, "sources": 0, "partners": 3, "trends": 3 },
+      "trends": [
+        { "id": "ai-infrastructure", "title": "AI infrastructure", "score": 82, "summary": "Daily updater tracks AI infrastructure signals.", "technology": ["AI", "GPU", "cloud"], "impact": "Placeholder until live sources are available.", "sources": [] },
+        { "id": "partnership", "title": "Partnership", "score": 78, "summary": "Partner extraction compares daily signals against history.", "technology": ["entity detection", "history"], "impact": "First mention becomes stronger as history grows.", "sources": [] },
+        { "id": "market", "title": "Market signal", "score": 72, "summary": "Market reactions are grouped separately.", "technology": ["earnings", "revenue", "stock"], "impact": "Production can later attach market-data connectors.", "sources": [] }
+      ],
+      "partners": [
+        { "partner": "AMD", "type": "Tracked company", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" },
+        { "partner": "OpenAI", "type": "Known ecosystem entity", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" },
+        { "partner": "TSMC", "type": "Known ecosystem entity", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" }
+      ],
+      "articles": []
+    },
+    {
+      "id": "masayoshi-son",
+      "name": "Masayoshi Son / 孫正義",
+      "company": "SoftBank",
+      "summary": "Fallback demo data is loaded. The live updater will replace this with fresh public-news signals each day.",
+      "metrics": { "articles": 0, "sources": 0, "partners": 3, "trends": 3 },
+      "trends": [
+        { "id": "ai-infrastructure", "title": "AI infrastructure", "score": 82, "summary": "Daily updater tracks AI infrastructure signals.", "technology": ["AI", "GPU", "cloud"], "impact": "Placeholder until live sources are available.", "sources": [] },
+        { "id": "partnership", "title": "Partnership", "score": 78, "summary": "Partner extraction compares daily signals against history.", "technology": ["entity detection", "history"], "impact": "First mention becomes stronger as history grows.", "sources": [] },
+        { "id": "market", "title": "Market signal", "score": 72, "summary": "Market reactions are grouped separately.", "technology": ["earnings", "revenue", "stock"], "impact": "Production can later attach market-data connectors.", "sources": [] }
+      ],
+      "partners": [
+        { "partner": "SoftBank", "type": "Tracked company", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" },
+        { "partner": "OpenAI", "type": "Known ecosystem entity", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" },
+        { "partner": "TSMC", "type": "Known ecosystem entity", "cooperation": "Tracked when mentioned in public sources.", "mentions": 0, "occasions": [], "first": false, "sourceTypes": ["Fallback"], "trend": "General news" }
+      ],
+      "articles": []
+    }
+  ],
+  "sources": []
+}
