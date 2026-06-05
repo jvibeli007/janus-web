@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-06-05 16:04 Asia/Taipei",
+  "period": "2026-06-04 ~ 2026-06-05",
+  "mode": "Fallback Snapshot",
+  "sourceStatus": "No live source was available. Fallback data is shown until the next successful update.",
+  "celebrities": [
+    { "id": "jensen-huang", "name": "Jensen Huang / 黃仁勳", "company": "NVIDIA", "summary": "Fallback demo data is loaded. The live updater will replace this with fresh public-news signals each day.", "metrics": { "articles": 0, "sources": 0, "partners": 3, "trends": 3 }, "trends": [], "partners": [], "articles": [] },
+    { "id": "lisa-su", "name": "Lisa Su / 蘇姿丰", "company": "AMD", "summary": "Fallback demo data is loaded. The live updater will replace this with fresh public-news signals each day.", "metrics": { "articles": 0, "sources": 0, "partners": 3, "trends": 3 }, "trends": [], "partners": [], "articles": [] },
+    { "id": "masayoshi-son", "name": "Masayoshi Son / 孫正義", "company": "SoftBank", "summary": "Fallback demo data is loaded. The live updater will replace this with fresh public-news signals each day.", "metrics": { "articles": 0, "sources": 0, "partners": 3, "trends": 3 }, "trends": [], "partners": [], "articles": [] }
+  ],
+  "sources": []
+}
