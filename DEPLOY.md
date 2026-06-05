@@ -6,8 +6,8 @@
 2. Open the repository on GitHub.
 3. Go to Settings → Pages.
 4. Set Source to GitHub Actions.
-5. Run the workflow manually once:
-   Actions → Daily celebrity snapshot → Run workflow.
+5. Run the workflow when you want a fresh snapshot:
+   Actions → Request celebrity snapshot → Run workflow.
 6. Open the Pages URL after deployment completes.
 
 For a public repository named `jvibeli007/janus-web`, the expected URL is:
@@ -16,16 +16,9 @@ For a public repository named `jvibeli007/janus-web`, the expected URL is:
 https://jvibeli007.github.io/janus-web/
 ```
 
-## Daily Update
+## Per-request Update
 
-The workflow runs every day at:
-
-```text
-22:15 UTC
-06:15 Asia/Taipei
-```
-
-It performs these steps:
+The workflow does not run on a schedule. Trigger it manually whenever you want a fresh snapshot. It performs these steps:
 
 1. Generate the latest `data/snapshot.json`.
 2. Save a dated copy in `data/history/`.
