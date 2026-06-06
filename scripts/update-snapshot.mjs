@@ -10,12 +10,29 @@ const days = Number(process.env.SNAPSHOT_DAYS || 2);
 
 const trendCatalog = [
   ["ai-infrastructure", "AI 基礎設施 / AI infrastructure", ["ai", "gpu", "data center", "cloud", "inference", "training", "server"]],
-  ["partnership", "合作夥伴 / Partnership", ["partner", "deal", "customer", "collaboration", "supplier", "ecosystem"]],
-  ["chips", "半導體平台 / Semiconductor platform", ["chip", "semiconductor", "cpu", "gpu", "foundry", "tsmc", "packaging"]],
+  ["partnership", "合作夥伴 / Partnership", ["partner", "deal", "customer", "collaboration", "supplier", "ecosystem", "alliance"]],
+  ["chips", "半導體平台 / Semiconductor platform", ["chip", "semiconductor", "cpu", "gpu", "foundry", "tsmc", "packaging", "memory"]],
   ["robotics", "實體 AI / Robotics", ["robot", "robotics", "humanoid", "autonomous", "factory"]],
   ["market", "市場訊號 / Market signal", ["stock", "shares", "earnings", "revenue", "forecast", "guidance"]]
 ];
-const knownPartners = ["OpenAI", "Anthropic", "Microsoft", "Oracle", "Google", "Amazon", "AWS", "Meta", "Tesla", "TSMC", "Foxconn", "MediaTek", "Dell", "HP", "Lenovo", "ASUS", "SoftBank", "Arm", "Samsung", "Intel", "AMD", "Broadcom", "SpaceX"];
+
+const knownPartners = [
+  "NVIDIA", "Nvidia", "AMD", "OpenAI", "Anthropic", "Microsoft", "Oracle", "Google",
+  "Amazon", "AWS", "Meta", "Tesla", "TSMC", "Foxconn", "Hon Hai", "MediaTek",
+  "Dell", "HP", "Lenovo", "ASUS", "Acer", "Quanta", "Wistron", "SoftBank",
+  "Arm", "Samsung", "Samsung Electronics", "SK hynix", "SK Group", "Hyundai",
+  "Hyundai Motor", "LG", "Intel", "Broadcom", "Cisco", "SpaceX", "Unitree",
+  "Figure AI", "Naver", "Kakao", "Oracle Cloud", "CoreWeave"
+];
+
+const mediaAndNoise = new Set([
+  "CNBC", "Reuters", "Bloomberg", "Business Insider", "The Korea Herald",
+  "Korea Herald", "NVIDIA Blog", "Yahoo Finance", "AP News", "BBC", "CNN",
+  "Fortune", "Forbes", "MarketWatch", "WSJ", "The Wall Street Journal", "MSN",
+  "Crypto Briefing", "Benzinga", "Motley Fool", "Investopedia", "Seeking Alpha",
+  "Google News", "YouTube", "LinkedIn", "GitHub", "AI Magazine", "International Business Times",
+  "HarianBasis.co", "Seoul", "South Korea", "Korea", "China", "US", "USA", "CEO", "AI", "GPU", "CPU", "PC"
+]);
 
 await fs.mkdir(dataDir, { recursive: true });
 await fs.mkdir(historyDir, { recursive: true });
@@ -55,10 +72,11 @@ console.log(`Snapshot written for ${period} with ${celebrities.length} celebriti
 async function collectArticles(celebrity) {
   const queries = [
     `"${celebrity.name}" ${celebrity.company}`,
-    `"${celebrity.company}" CEO ${celebrity.name}`
+    `"${celebrity.company}" CEO ${celebrity.name}`,
+    `${celebrity.company} ${celebrity.aliases.join(" OR ")}`
   ];
   const batches = await Promise.allSettled(queries.map(fetchGoogleNews));
-  return dedupe(batches.flatMap(result => result.status === "fulfilled" ? result.value : [])).slice(0, 24);
+  return dedupe(batches.flatMap(result => result.status === "fulfilled" ? result.value : [])).slice(0, 30);
 }
 
 async function fetchGoogleNews(query) {
@@ -81,13 +99,13 @@ async function fetchGoogleNews(query) {
 
 function buildCelebritySnapshot(celebrity, articles, previousPartners) {
   const trends = buildTrends(articles);
-  const partners = articles.length ? buildPartners(articles, previousPartners) : fallbackPartners(celebrity);
+  const partners = articles.length ? buildPartners(celebrity, articles, previousPartners) : fallbackPartners(celebrity);
   return {
     id: celebrity.id,
     name: `${celebrity.name} / ${celebrity.localName}`,
     company: celebrity.company,
     summary: articles.length
-      ? `${celebrity.name} / ${celebrity.company} 今日抓到 ${articles.length} 則公開來源。最高分趨勢是 ${trends[0]?.title || "general news"}。`
+      ? `${celebrity.name} / ${celebrity.company} 今日抓到 ${articles.length} 則公開來源。最高分趨勢是 ${trends[0]?.title || "general news"}；共同出現實體 ${partners.length} 個。`
       : "Fallback demo data is loaded. The live updater will replace this with fresh public-news signals each day.",
     metrics: {
       articles: articles.length,
@@ -108,7 +126,7 @@ function buildTrends(articles) {
       id,
       title,
       score: Math.min(99, 55 + hits.length * 8 + new Set(hits.map(hit => hit.source)).size * 4),
-      summary: hits.length ? `今日公開來源中有 ${hits.length} 則相關訊號。` : `今日尚未抓到明確訊號。`,
+      summary: hits.length ? `今日公開來源中有 ${hits.length} 則相關訊號。` : "今日尚未抓到明確訊號。",
       technology: keywords.slice(0, 5),
       impact: hits.length ? "可用來觀察名人敘事、合作、產品與市場反應是否同步升溫。" : "若連續多日沒有訊號，可視為短期熱度降低。",
       sources: hits.slice(0, 4).map(hit => hit.title)
@@ -117,15 +135,15 @@ function buildTrends(articles) {
   return trends.length ? trends.sort((a, b) => b.score - a.score).slice(0, 6) : fallbackTrends();
 }
 
-function buildPartners(articles, previousPartners) {
+function buildPartners(celebrity, articles, previousPartners) {
   const map = new Map();
   for (const article of articles) {
-    for (const partner of extractPartners(`${article.title} ${article.snippet}`)) {
-      const key = partner.toLowerCase();
+    for (const partner of extractPartners(celebrity, `${article.title} ${article.snippet}`)) {
+      const key = normalizePartner(partner).toLowerCase();
       if (!map.has(key)) {
         map.set(key, {
-          partner,
-          type: "Detected organization",
+          partner: normalizePartner(partner),
+          type: partner.toLowerCase() === celebrity.company.toLowerCase() ? "Tracked company" : "Detected organization",
           cooperation: "在公開新聞訊號中與此名人或其公司同時出現，需進一步人工或 RAG 驗證合作關係。",
           mentions: 0,
           occasions: [],
@@ -140,7 +158,60 @@ function buildPartners(articles, previousPartners) {
       row.sourceTypes.add(article.sourceType || "News");
     }
   }
-  return [...map.values()].map(row => ({ ...row, sourceTypes: [...row.sourceTypes], occasions: row.occasions.slice(0, 3) })).slice(0, 16);
+  return [...map.values()]
+    .map(row => ({ ...row, sourceTypes: [...row.sourceTypes], occasions: row.occasions.slice(0, 3) }))
+    .sort((a, b) => b.mentions - a.mentions || a.partner.localeCompare(b.partner))
+    .slice(0, 18);
+}
+
+function extractPartners(celebrity, text) {
+  const found = new Set([celebrity.company]);
+  for (const name of knownPartners) {
+    if (new RegExp(`(^|[^A-Za-z0-9])${escapeRegExp(name)}([^A-Za-z0-9]|$)`, "i").test(text)) {
+      found.add(name);
+    }
+  }
+
+  const suffixPattern = /\b([A-Z][A-Za-z0-9&.-]*(?:\s+[A-Z][A-Za-z0-9&.-]*){0,3})\s+(Inc|Corp|Corporation|Group|Holdings|Technologies|Systems|Electronics|Motor|Semiconductor|Robotics|Foundry)\b/g;
+  for (const match of text.matchAll(suffixPattern)) {
+    found.add(`${match[1]} ${match[2]}`);
+  }
+
+  const phrasePattern = /\b[A-Z][A-Za-z0-9&.-]*(?:\s+[A-Z][A-Za-z0-9&.-]*){1,3}\b/g;
+  for (const match of text.matchAll(phrasePattern)) {
+    const phrase = match[0].trim();
+    if (looksLikeOrganization(phrase, celebrity)) found.add(phrase);
+  }
+
+  return [...found].map(normalizePartner).filter(Boolean).filter(name => !isNoisePartner(name, celebrity)).slice(0, 10);
+}
+
+function looksLikeOrganization(phrase, celebrity) {
+  if (phrase.includes(celebrity.name)) return false;
+  if (phrase.split(/\s+/).length > 4) return false;
+  if (/\b(CEO|CFO|CTO|Investors|Says|Said|Just|This|Up|Down|Why|How|What|Which|After|Before|During|Called|Designing|Compares|Projects|Massive|Record|Highs|Amid)\b/i.test(phrase)) return false;
+  return /(?:^|\s)(Group|Electronics|Motor|Semiconductor|Systems|Technologies|Labs|Robotics|Capital|Foundry|Holdings)$/i.test(phrase);
+}
+
+function normalizePartner(name) {
+  return name
+    .replace(/\s+-\s+.*$/, "")
+    .replace(/\s+\|\s+.*$/, "")
+    .replace(/\s+(Inc|Corp|Corporation|Co|Ltd|LLC|PLC)\.?$/i, "")
+    .replace(/^Nvidia$/i, "NVIDIA")
+    .replace(/^Amd$/i, "AMD")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function isNoisePartner(name, celebrity) {
+  if (!name || name.length < 2) return true;
+  if (mediaAndNoise.has(name)) return true;
+  if (name === celebrity.name || name === celebrity.localName || name.includes(celebrity.name)) return true;
+  if (/[.:]/.test(name)) return true;
+  if (/^(The|This|That|New|Latest|Breaking|Here|Why|How|What|Which|As|After|Before|During|CEO|CNBC|MSN|Reuters|Crypto Briefing|AI Magazine|International Business Times)\b/i.test(name)) return true;
+  if (/\b(CEO|Says|Said|Just|Investors|Record|Highs|Amid|Massive|Projects|Compares)\b/i.test(name)) return true;
+  return false;
 }
 
 function fallbackTrends() {
@@ -162,14 +233,6 @@ function fallbackPartners(celebrity) {
     sourceTypes: ["Fallback"],
     trend: "General news"
   }));
-}
-
-function extractPartners(text) {
-  const found = new Set();
-  for (const name of knownPartners) {
-    if (new RegExp(`\\b${escapeRegExp(name)}\\b`, "i").test(text)) found.add(name);
-  }
-  return [...found].slice(0, 8);
 }
 
 function matchTrend(article) {
